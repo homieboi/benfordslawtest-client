@@ -1,0 +1,3 @@
+export const CREATE_NUMBER_SET = 'CREATE_NUMBER_SET'
+
+export const SET_NUMBER_VALUE = 'SET_NUMBER_VALUE'
