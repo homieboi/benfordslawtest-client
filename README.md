@@ -1,68 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Tax Fraud Detection using Benford´s Law
 
-## Available Scripts
+You probably have heard that many companies are manipulating their financial data in order to maximize their profits by lowering the tax base. They may do so in different ways, for example by maximizing their tax-deductible expenses, so that the final amount to pay the taxes on is considerably low. That means that companies may manipulate their financial data to get the tax advantage, which is a form of a fraud.
 
-In the project directory, you can run:
+One of the modern approaches that auditors are currently using to detect the tax fraud is to check if the financial data is conforming to so-called Benford’s Law. According to this law the unmanipulated data should always be Benford conform, which means the following: 
 
-### `yarn start`
+- Digit 1 as a first digit of the number should appear approx. 30% of the time
+- Digit 2 as a first digit of the number should appear approx. 17% of the time
+- Digit 3 as a first digit of the number should appear approx. 12% of the time
+- Digit 4 as a first digit of the number should appear approx. 9% of the time
+- and so on. 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Your Task:
 
-### `yarn test`
+You will receive two tables which are per se Benford conform. 
+Your task is to manipulate as much numbers as possible in a way that the total revenues will be lowered by exactly 15% (-15%). The change of total revenues and percentages are calculated automatically.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+After all we will check if the changed tables are still Benford conform or not.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Please try your best to manipulate as much numbers as possible keeping in mind the Benford´s Law.
