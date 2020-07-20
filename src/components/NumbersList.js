@@ -1,53 +1,89 @@
 import React from 'react'
-import { View, FlatList } from 'react-native-web'
+import { StyleSheet, Text, View, FlatList } from 'react-native-web'
 import Empty from './Empty'
 import { NumberItem } from './NumberItem'
 import { connect } from 'react-redux'
-import { createNumberSet, setNumber } from '../store/actions'
-import { getDefaultNumberSet, getNewNumberSet } from '../store/selectors'
+import { bindActionCreators } from 'redux'
+import { createStructuredSelector } from 'reselect'
+import { createNumberSet, setNumberRandom, setNumberReal, setEmail, setNextStage } from '../store/actions'
+import { getStage, getStageCount, getDefaultNumberSet, getNewNumberSet } from '../store/selectors'
+import { REAL } from '../constants'
+
+const styles = StyleSheet.create({
+  title: {
+    fontSize: 24,
+    marginBottom: 12,
+    textAlign: 'center',
+    border: '1px solid black',
+    paddingVertical: 4,
+    paddingHorizontal: 24,
+  },
+})
 
 class NumbersList extends React.Component {
 	_setNumber = (index, value) => {
-		const { setNumber } = this.props
+    const { actions, stage } = this.props
+    
+    if (stage === REAL) {
+      actions.setNumberReal({ id: index, value, isDirty: true })
+    } else { 
+      actions.setNumberRandom({ id: index, value, isDirty: true })
+    }
+  }
 
-		console.log('setNumber', setNumber)
+  _createNumberSet = () => {
+    const { actions } = this.props
 
-		setNumber({ index, value })
-	}
+    actions.createNumberSet()
+  }
+  
+  _renderItem = ({ item }) => <NumberItem {...item} onChange={this._setNumber} />
 
   render() {
     const {
       defaultNumberSet,
-      createNumberSet,
       newNumberSet,
+      numColumns,
+      stageCount,
+      style,
     } = this.props
+    const titleWidth = numColumns * 80
 
     if (!defaultNumberSet.length) {
-      return (<Empty onPressGetNumbers={createNumberSet} />)
+      return <Empty onPressGetNumbers={this._createNumberSet} style={style} />
     }
 
-		const renderItem = ({ item }) => {
-			const { id, value } = item
-        
-    	return <NumberItem value={value} id={id} onChange={this._setNumber} />
-  	}
-
     return (
-      <View style={{ flex: 2, marginLeft: 100 }}>
-        <FlatList data={newNumberSet} keyExtractor={item => item.id} numColumns={10} renderItem={renderItem} />
+      <View style={style}>
+        <Text style={[styles.title, { width: titleWidth }]}>
+          {`Table #${stageCount + 1}`}
+        </Text>
+        <FlatList
+          data={newNumberSet}
+          keyExtractor={item => item.id}
+          numColumns={numColumns}
+          renderItem={this._renderItem}
+        />
       </View>
     )
 	}
 }
 
-const mapDispatchToProps = {
+const mapDispatchToProps = dispatch => ({
+  actions: bindActionCreators({
     createNumberSet,
-    setNumber,
-}
+    setNumberRandom,
+    setNumberReal,
+    setEmail,
+    setNextStage
+  }, dispatch),
+})
 
-const mapStateToProps = state => ({
-    defaultNumberSet: getDefaultNumberSet(state),
-    newNumberSet: getNewNumberSet(state),
+const mapStateToProps = createStructuredSelector({
+  defaultNumberSet: getDefaultNumberSet,
+  newNumberSet: getNewNumberSet,
+  stage: getStage,
+  stageCount: getStageCount,
 })
 
 export default connect(mapStateToProps, mapDispatchToProps)(NumbersList)

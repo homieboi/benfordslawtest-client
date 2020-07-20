@@ -1,14 +1,29 @@
 import React from 'react'
-import { Text, View } from 'react-native-web'
+import { StyleSheet, Text, View } from 'react-native-web'
+import { colors, iosShadow } from '../constants'
+
+const styles = StyleSheet.create({
+	header: {
+		alignItems: 'center',
+		backgroundColor: colors.mainBlue,
+		paddingVertical: 24,
+		paddingHorizontal: 24,
+	},
+	title: {
+		borderBottomStyle: 'solid',
+		borderBottomWidth: 2,
+		borderBottomColor: 'white',
+		color: 'white',
+		fontSize: 36,
+	}
+})
 
 const Header = () => (
-    <View style={{ alignItems: 'center', marginTop: 36, marginBottom: 48 }}>
-        <Text
-            style={{ fontSize: 36 }}
-        >
-            Welcome to Benfords Distribution Test
-        </Text>
-    </View>
+	<View style={[styles.header, iosShadow]} >
+		<Text style={styles.title}>
+			{'Tax Fraud Detection using Benford´s Law'}
+		</Text>
+	</View>
 )
 
 export default Header

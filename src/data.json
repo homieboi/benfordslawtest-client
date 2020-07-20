@@ -1,0 +1,4342 @@
+[
+  {
+    "Datum": "01.01.2009",
+    "Einnahmen": 673.2
+  },
+  {
+    "Datum": "02.01.2009",
+    "Einnahmen": 989.5
+  },
+  {
+    "Datum": "03.01.2009",
+    "Einnahmen": 455.5
+  },
+  {
+    "Datum": "04.01.2009",
+    "Einnahmen": "1,011.60"
+  },
+  {
+    "Datum": "05.01.2009",
+    "Einnahmen": "1,039.90"
+  },
+  {
+    "Datum": "06.01.2009",
+    "Einnahmen": 577.7
+  },
+  {
+    "Datum": "07.01.2009",
+    "Einnahmen": "1,611.30"
+  },
+  {
+    "Datum": "08.01.2009",
+    "Einnahmen": 471.4
+  },
+  {
+    "Datum": "09.01.2009",
+    "Einnahmen": 701.4
+  },
+  {
+    "Datum": "10.01.2009",
+    "Einnahmen": 861.5
+  },
+  {
+    "Datum": "11.01.2009",
+    "Einnahmen": 817
+  },
+  {
+    "Datum": "12.01.2009",
+    "Einnahmen": 321.7
+  },
+  {
+    "Datum": "13.01.2009",
+    "Einnahmen": 467.4
+  },
+  {
+    "Datum": "14.01.2009",
+    "Einnahmen": 616.6
+  },
+  {
+    "Datum": "15.01.2009",
+    "Einnahmen": 767.5
+  },
+  {
+    "Datum": "16.01.2009",
+    "Einnahmen": "1,068.30"
+  },
+  {
+    "Datum": "17.01.2009",
+    "Einnahmen": 786.4
+  },
+  {
+    "Datum": "18.01.2009",
+    "Einnahmen": "1,460.10"
+  },
+  {
+    "Datum": "19.01.2009",
+    "Einnahmen": 730.1
+  },
+  {
+    "Datum": "20.01.2009",
+    "Einnahmen": 374.1
+  },
+  {
+    "Datum": "21.01.2009",
+    "Einnahmen": "1,297.40"
+  },
+  {
+    "Datum": "22.01.2009",
+    "Einnahmen": 406.3
+  },
+  {
+    "Datum": "23.01.2009",
+    "Einnahmen": "1,296.50"
+  },
+  {
+    "Datum": "24.01.2009",
+    "Einnahmen": "1,174.80"
+  },
+  {
+    "Datum": "25.01.2009",
+    "Einnahmen": "1,453.80"
+  },
+  {
+    "Datum": "26.01.2009",
+    "Einnahmen": 602.4
+  },
+  {
+    "Datum": "27.01.2009",
+    "Einnahmen": 628.3
+  },
+  {
+    "Datum": "28.01.2009",
+    "Einnahmen": 714.8
+  },
+  {
+    "Datum": "29.01.2009",
+    "Einnahmen": 534.9
+  },
+  {
+    "Datum": "30.01.2009",
+    "Einnahmen": 960
+  },
+  {
+    "Datum": "31.01.2009",
+    "Einnahmen": "1,545.80"
+  },
+  {
+    "Datum": "01.02.2009",
+    "Einnahmen": 598.5
+  },
+  {
+    "Datum": "02.02.2009",
+    "Einnahmen": 625.4
+  },
+  {
+    "Datum": "03.02.2009",
+    "Einnahmen": 420
+  },
+  {
+    "Datum": "04.02.2009",
+    "Einnahmen": 407.7
+  },
+  {
+    "Datum": "05.02.2009",
+    "Einnahmen": "1,111.80"
+  },
+  {
+    "Datum": "06.02.2009",
+    "Einnahmen": 810.5
+  },
+  {
+    "Datum": "07.02.2009",
+    "Einnahmen": "1,303.70"
+  },
+  {
+    "Datum": "08.02.2009",
+    "Einnahmen": "1,022.70"
+  },
+  {
+    "Datum": "09.02.2009",
+    "Einnahmen": 352.5
+  },
+  {
+    "Datum": "10.02.2009",
+    "Einnahmen": 626.4
+  },
+  {
+    "Datum": "11.02.2009",
+    "Einnahmen": 372.5
+  },
+  {
+    "Datum": "12.02.2009",
+    "Einnahmen": 500.5
+  },
+  {
+    "Datum": "13.02.2009",
+    "Einnahmen": "1,659.30"
+  },
+  {
+    "Datum": "14.02.2009",
+    "Einnahmen": "2,170.00"
+  },
+  {
+    "Datum": "15.02.2009",
+    "Einnahmen": "1,145.20"
+  },
+  {
+    "Datum": "16.02.2009",
+    "Einnahmen": 789.5
+  },
+  {
+    "Datum": "17.02.2009",
+    "Einnahmen": 289.4
+  },
+  {
+    "Datum": "18.02.2009",
+    "Einnahmen": 606.6
+  },
+  {
+    "Datum": "19.02.2009",
+    "Einnahmen": "1,183.60"
+  },
+  {
+    "Datum": "20.02.2009",
+    "Einnahmen": 840
+  },
+  {
+    "Datum": "21.02.2009",
+    "Einnahmen": 951.8
+  },
+  {
+    "Datum": "22.02.2009",
+    "Einnahmen": 715.2
+  },
+  {
+    "Datum": "23.02.2009",
+    "Einnahmen": "1,434.80"
+  },
+  {
+    "Datum": "24.02.2009",
+    "Einnahmen": 594
+  },
+  {
+    "Datum": "25.02.2009",
+    "Einnahmen": 833.8
+  },
+  {
+    "Datum": "26.02.2009",
+    "Einnahmen": 524.1
+  },
+  {
+    "Datum": "27.02.2009",
+    "Einnahmen": "1,033.60"
+  },
+  {
+    "Datum": "28.02.2009",
+    "Einnahmen": 878.2
+  },
+  {
+    "Datum": "01.03.2009",
+    "Einnahmen": 511.2
+  },
+  {
+    "Datum": "02.03.2009",
+    "Einnahmen": 889.5
+  },
+  {
+    "Datum": "03.03.2009",
+    "Einnahmen": 349.8
+  },
+  {
+    "Datum": "04.03.2009",
+    "Einnahmen": 707.4
+  },
+  {
+    "Datum": "05.03.2009",
+    "Einnahmen": 539.7
+  },
+  {
+    "Datum": "06.03.2009",
+    "Einnahmen": "1,029.20"
+  },
+  {
+    "Datum": "07.03.2009",
+    "Einnahmen": 872.5
+  },
+  {
+    "Datum": "08.03.2009",
+    "Einnahmen": 847
+  },
+  {
+    "Datum": "09.03.2009",
+    "Einnahmen": 489.7
+  },
+  {
+    "Datum": "10.03.2009",
+    "Einnahmen": 730.3
+  },
+  {
+    "Datum": "11.03.2009",
+    "Einnahmen": 781.1
+  },
+  {
+    "Datum": "12.03.2009",
+    "Einnahmen": 350.4
+  },
+  {
+    "Datum": "13.03.2009",
+    "Einnahmen": 916.3
+  },
+  {
+    "Datum": "14.03.2009",
+    "Einnahmen": 685.8
+  },
+  {
+    "Datum": "15.03.2009",
+    "Einnahmen": 649.6
+  },
+  {
+    "Datum": "16.03.2009",
+    "Einnahmen": 768.2
+  },
+  {
+    "Datum": "17.03.2009",
+    "Einnahmen": 585.8
+  },
+  {
+    "Datum": "18.03.2009",
+    "Einnahmen": 682.9
+  },
+  {
+    "Datum": "19.03.2009",
+    "Einnahmen": 373.8
+  },
+  {
+    "Datum": "20.03.2009",
+    "Einnahmen": "1,593.10"
+  },
+  {
+    "Datum": "21.03.2009",
+    "Einnahmen": 986.2
+  },
+  {
+    "Datum": "22.03.2009",
+    "Einnahmen": "1,832.40"
+  },
+  {
+    "Datum": "23.03.2009",
+    "Einnahmen": 654.8
+  },
+  {
+    "Datum": "24.03.2009",
+    "Einnahmen": 987.5
+  },
+  {
+    "Datum": "25.03.2009",
+    "Einnahmen": 419.8
+  },
+  {
+    "Datum": "26.03.2009",
+    "Einnahmen": 394.2
+  },
+  {
+    "Datum": "27.03.2009",
+    "Einnahmen": "1,405.50"
+  },
+  {
+    "Datum": "28.03.2009",
+    "Einnahmen": "1,381.90"
+  },
+  {
+    "Datum": "29.03.2009",
+    "Einnahmen": "1,052.80"
+  },
+  {
+    "Datum": "30.03.2009",
+    "Einnahmen": 794
+  },
+  {
+    "Datum": "31.03.2009",
+    "Einnahmen": 413.6
+  },
+  {
+    "Datum": "01.04.2009",
+    "Einnahmen": 816.9
+  },
+  {
+    "Datum": "02.04.2009",
+    "Einnahmen": 421.4
+  },
+  {
+    "Datum": "03.04.2009",
+    "Einnahmen": "1,384.40"
+  },
+  {
+    "Datum": "04.04.2009",
+    "Einnahmen": "1,081.10"
+  },
+  {
+    "Datum": "05.04.2009",
+    "Einnahmen": 831.4
+  },
+  {
+    "Datum": "07.04.2009",
+    "Einnahmen": 563.9
+  },
+  {
+    "Datum": "08.04.2009",
+    "Einnahmen": 454.2
+  },
+  {
+    "Datum": "09.04.2009",
+    "Einnahmen": 355.9
+  },
+  {
+    "Datum": "10.04.2009",
+    "Einnahmen": 503.6
+  },
+  {
+    "Datum": "11.04.2009",
+    "Einnahmen": 409.1
+  },
+  {
+    "Datum": "12.04.2009",
+    "Einnahmen": 947.7
+  },
+  {
+    "Datum": "13.04.2009",
+    "Einnahmen": "1,948.40"
+  },
+  {
+    "Datum": "14.04.2009",
+    "Einnahmen": 431.2
+  },
+  {
+    "Datum": "15.04.2009",
+    "Einnahmen": 728.4
+  },
+  {
+    "Datum": "16.04.2009",
+    "Einnahmen": 428.7
+  },
+  {
+    "Datum": "17.04.2009",
+    "Einnahmen": "1,015.50"
+  },
+  {
+    "Datum": "18.04.2009",
+    "Einnahmen": "1,053.30"
+  },
+  {
+    "Datum": "19.04.2009",
+    "Einnahmen": 451.3
+  },
+  {
+    "Datum": "20.04.2009",
+    "Einnahmen": 542.5
+  },
+  {
+    "Datum": "21.04.2009",
+    "Einnahmen": 375.2
+  },
+  {
+    "Datum": "22.04.2009",
+    "Einnahmen": 709.4
+  },
+  {
+    "Datum": "23.04.2009",
+    "Einnahmen": 520.3
+  },
+  {
+    "Datum": "24.04.2009",
+    "Einnahmen": 728.3
+  },
+  {
+    "Datum": "25.04.2009",
+    "Einnahmen": 541.7
+  },
+  {
+    "Datum": "26.04.2009",
+    "Einnahmen": 646.9
+  },
+  {
+    "Datum": "27.04.2009",
+    "Einnahmen": 814.8
+  },
+  {
+    "Datum": "28.04.2009",
+    "Einnahmen": 530.1
+  },
+  {
+    "Datum": "29.04.2009",
+    "Einnahmen": 831.3
+  },
+  {
+    "Datum": "30.04.2009",
+    "Einnahmen": 994.9
+  },
+  {
+    "Datum": "01.05.2009",
+    "Einnahmen": 340.1
+  },
+  {
+    "Datum": "02.05.2009",
+    "Einnahmen": 712.5
+  },
+  {
+    "Datum": "03.05.2009",
+    "Einnahmen": "1,461.30"
+  },
+  {
+    "Datum": "04.05.2009",
+    "Einnahmen": 893.4
+  },
+  {
+    "Datum": "05.05.2009",
+    "Einnahmen": 936.8
+  },
+  {
+    "Datum": "06.05.2009",
+    "Einnahmen": 454.3
+  },
+  {
+    "Datum": "07.05.2009",
+    "Einnahmen": 687.5
+  },
+  {
+    "Datum": "08.05.2009",
+    "Einnahmen": 630.3
+  },
+  {
+    "Datum": "09.05.2009",
+    "Einnahmen": 865.3
+  },
+  {
+    "Datum": "10.05.2009",
+    "Einnahmen": "1,546.00"
+  },
+  {
+    "Datum": "11.05.2009",
+    "Einnahmen": 623.2
+  },
+  {
+    "Datum": "12.05.2009",
+    "Einnahmen": 676.5
+  },
+  {
+    "Datum": "13.05.2009",
+    "Einnahmen": 735
+  },
+  {
+    "Datum": "14.05.2009",
+    "Einnahmen": 504.8
+  },
+  {
+    "Datum": "15.05.2009",
+    "Einnahmen": 960.4
+  },
+  {
+    "Datum": "16.05.2009",
+    "Einnahmen": 975.5
+  },
+  {
+    "Datum": "17.05.2009",
+    "Einnahmen": 870.8
+  },
+  {
+    "Datum": "18.05.2009",
+    "Einnahmen": "1,065.60"
+  },
+  {
+    "Datum": "19.05.2009",
+    "Einnahmen": 613
+  },
+  {
+    "Datum": "20.05.2009",
+    "Einnahmen": 786.2
+  },
+  {
+    "Datum": "21.05.2009",
+    "Einnahmen": 774.7
+  },
+  {
+    "Datum": "22.05.2009",
+    "Einnahmen": 566.7
+  },
+  {
+    "Datum": "23.05.2009",
+    "Einnahmen": 840
+  },
+  {
+    "Datum": "24.05.2009",
+    "Einnahmen": 921.9
+  },
+  {
+    "Datum": "25.05.2009",
+    "Einnahmen": 850.6
+  },
+  {
+    "Datum": "26.05.2009",
+    "Einnahmen": 753.8
+  },
+  {
+    "Datum": "27.05.2009",
+    "Einnahmen": 586.6
+  },
+  {
+    "Datum": "28.05.2009",
+    "Einnahmen": 443.3
+  },
+  {
+    "Datum": "29.05.2009",
+    "Einnahmen": 499.8
+  },
+  {
+    "Datum": "30.05.2009",
+    "Einnahmen": 546.6
+  },
+  {
+    "Datum": "31.05.2009",
+    "Einnahmen": "1,103.50"
+  },
+  {
+    "Datum": "01.06.2009",
+    "Einnahmen": 577.9
+  },
+  {
+    "Datum": "02.06.2009",
+    "Einnahmen": 511.9
+  },
+  {
+    "Datum": "03.06.2009",
+    "Einnahmen": 813.1
+  },
+  {
+    "Datum": "04.06.2009",
+    "Einnahmen": "1,620.40"
+  },
+  {
+    "Datum": "05.06.2009",
+    "Einnahmen": 958.9
+  },
+  {
+    "Datum": "06.06.2009",
+    "Einnahmen": 991.7
+  },
+  {
+    "Datum": "07.06.2009",
+    "Einnahmen": 886.2
+  },
+  {
+    "Datum": "08.06.2009",
+    "Einnahmen": 967.2
+  },
+  {
+    "Datum": "09.06.2009",
+    "Einnahmen": 792
+  },
+  {
+    "Datum": "10.06.2009",
+    "Einnahmen": "1,502.60"
+  },
+  {
+    "Datum": "11.06.2009",
+    "Einnahmen": "1,327.70"
+  },
+  {
+    "Datum": "12.06.2009",
+    "Einnahmen": 502.7
+  },
+  {
+    "Datum": "13.06.2009",
+    "Einnahmen": "1,035.50"
+  },
+  {
+    "Datum": "14.06.2009",
+    "Einnahmen": 758.7
+  },
+  {
+    "Datum": "15.06.2009",
+    "Einnahmen": 286.5
+  },
+  {
+    "Datum": "16.06.2009",
+    "Einnahmen": 639.2
+  },
+  {
+    "Datum": "17.06.2009",
+    "Einnahmen": 388.7
+  },
+  {
+    "Datum": "18.06.2009",
+    "Einnahmen": 613.6
+  },
+  {
+    "Datum": "19.06.2009",
+    "Einnahmen": "1,309.20"
+  },
+  {
+    "Datum": "20.06.2009",
+    "Einnahmen": 603.5
+  },
+  {
+    "Datum": "21.06.2009",
+    "Einnahmen": 909.6
+  },
+  {
+    "Datum": "22.06.2009",
+    "Einnahmen": 873
+  },
+  {
+    "Datum": "23.06.2009",
+    "Einnahmen": 735.3
+  },
+  {
+    "Datum": "24.06.2009",
+    "Einnahmen": 383.8
+  },
+  {
+    "Datum": "25.06.2009",
+    "Einnahmen": 677.4
+  },
+  {
+    "Datum": "26.06.2009",
+    "Einnahmen": 783.4
+  },
+  {
+    "Datum": "27.06.2009",
+    "Einnahmen": 503
+  },
+  {
+    "Datum": "28.06.2009",
+    "Einnahmen": "1,298.30"
+  },
+  {
+    "Datum": "29.06.2009",
+    "Einnahmen": "1,693.50"
+  },
+  {
+    "Datum": "30.06.2009",
+    "Einnahmen": 574.6
+  },
+  {
+    "Datum": "01.07.2009",
+    "Einnahmen": 710
+  },
+  {
+    "Datum": "02.07.2009",
+    "Einnahmen": 568.8
+  },
+  {
+    "Datum": "03.07.2009",
+    "Einnahmen": "1,000.20"
+  },
+  {
+    "Datum": "04.07.2009",
+    "Einnahmen": "2,634.40"
+  },
+  {
+    "Datum": "05.07.2009",
+    "Einnahmen": 606.4
+  },
+  {
+    "Datum": "06.07.2009",
+    "Einnahmen": 683
+  },
+  {
+    "Datum": "07.07.2009",
+    "Einnahmen": "1,211.70"
+  },
+  {
+    "Datum": "08.07.2009",
+    "Einnahmen": 745.8
+  },
+  {
+    "Datum": "09.07.2009",
+    "Einnahmen": 539.7
+  },
+  {
+    "Datum": "10.07.2009",
+    "Einnahmen": "1,271.20"
+  },
+  {
+    "Datum": "11.07.2009",
+    "Einnahmen": 877.3
+  },
+  {
+    "Datum": "12.07.2009",
+    "Einnahmen": "1,409.00"
+  },
+  {
+    "Datum": "13.07.2009",
+    "Einnahmen": 964.9
+  },
+  {
+    "Datum": "15.07.2009",
+    "Einnahmen": 467.7
+  },
+  {
+    "Datum": "16.07.2009",
+    "Einnahmen": 261.4
+  },
+  {
+    "Datum": "17.07.2009",
+    "Einnahmen": "1,261.70"
+  },
+  {
+    "Datum": "18.07.2009",
+    "Einnahmen": 796.4
+  },
+  {
+    "Datum": "19.07.2009",
+    "Einnahmen": 928.2
+  },
+  {
+    "Datum": "20.07.2009",
+    "Einnahmen": "1,210.80"
+  },
+  {
+    "Datum": "21.07.2009",
+    "Einnahmen": 930.3
+  },
+  {
+    "Datum": "22.07.2009",
+    "Einnahmen": 513.9
+  },
+  {
+    "Datum": "23.07.2009",
+    "Einnahmen": 606.7
+  },
+  {
+    "Datum": "24.07.2009",
+    "Einnahmen": "1,740.70"
+  },
+  {
+    "Datum": "25.07.2009",
+    "Einnahmen": 427.9
+  },
+  {
+    "Datum": "26.07.2009",
+    "Einnahmen": 643.5
+  },
+  {
+    "Datum": "27.07.2009",
+    "Einnahmen": "1,808.20"
+  },
+  {
+    "Datum": "28.07.2009",
+    "Einnahmen": "1,303.80"
+  },
+  {
+    "Datum": "29.07.2009",
+    "Einnahmen": 862.4
+  },
+  {
+    "Datum": "30.07.2009",
+    "Einnahmen": 986.6
+  },
+  {
+    "Datum": "31.07.2009",
+    "Einnahmen": "1,321.00"
+  },
+  {
+    "Datum": "01.08.2009",
+    "Einnahmen": "1,270.80"
+  },
+  {
+    "Datum": "02.08.2009",
+    "Einnahmen": "1,519.80"
+  },
+  {
+    "Datum": "03.08.2009",
+    "Einnahmen": 989.8
+  },
+  {
+    "Datum": "04.08.2009",
+    "Einnahmen": 764.6
+  },
+  {
+    "Datum": "05.08.2009",
+    "Einnahmen": "1,298.60"
+  },
+  {
+    "Datum": "06.08.2009",
+    "Einnahmen": 443.1
+  },
+  {
+    "Datum": "07.08.2009",
+    "Einnahmen": "1,104.00"
+  },
+  {
+    "Datum": "08.08.2009",
+    "Einnahmen": "1,568.20"
+  },
+  {
+    "Datum": "09.08.2009",
+    "Einnahmen": "1,717.70"
+  },
+  {
+    "Datum": "10.08.2009",
+    "Einnahmen": 952
+  },
+  {
+    "Datum": "11.08.2009",
+    "Einnahmen": "1,005.50"
+  },
+  {
+    "Datum": "12.08.2009",
+    "Einnahmen": "1,130.90"
+  },
+  {
+    "Datum": "13.08.2009",
+    "Einnahmen": 657.2
+  },
+  {
+    "Datum": "14.08.2009",
+    "Einnahmen": 648.9
+  },
+  {
+    "Datum": "15.08.2009",
+    "Einnahmen": "1,009.60"
+  },
+  {
+    "Datum": "16.08.2009",
+    "Einnahmen": 778.1
+  },
+  {
+    "Datum": "17.08.2009",
+    "Einnahmen": 905.2
+  },
+  {
+    "Datum": "18.08.2009",
+    "Einnahmen": "1,125.70"
+  },
+  {
+    "Datum": "19.08.2009",
+    "Einnahmen": "1,113.20"
+  },
+  {
+    "Datum": "20.08.2009",
+    "Einnahmen": 454.2
+  },
+  {
+    "Datum": "21.08.2009",
+    "Einnahmen": 788.8
+  },
+  {
+    "Datum": "22.08.2009",
+    "Einnahmen": "1,204.50"
+  },
+  {
+    "Datum": "23.08.2009",
+    "Einnahmen": 742.8
+  },
+  {
+    "Datum": "24.08.2009",
+    "Einnahmen": 412.9
+  },
+  {
+    "Datum": "25.08.2009",
+    "Einnahmen": "1,107.20"
+  },
+  {
+    "Datum": "26.08.2009",
+    "Einnahmen": 582.1
+  },
+  {
+    "Datum": "27.08.2009",
+    "Einnahmen": 577.8
+  },
+  {
+    "Datum": "28.08.2009",
+    "Einnahmen": "2,177.00"
+  },
+  {
+    "Datum": "29.08.2009",
+    "Einnahmen": 897.4
+  },
+  {
+    "Datum": "30.08.2009",
+    "Einnahmen": "1,416.50"
+  },
+  {
+    "Datum": "31.08.2009",
+    "Einnahmen": 384
+  },
+  {
+    "Datum": "01.09.2009",
+    "Einnahmen": 899.7
+  },
+  {
+    "Datum": "02.09.2009",
+    "Einnahmen": "1,566.10"
+  },
+  {
+    "Datum": "03.09.2009",
+    "Einnahmen": 535.4
+  },
+  {
+    "Datum": "04.09.2009",
+    "Einnahmen": 992.3
+  },
+  {
+    "Datum": "05.09.2009",
+    "Einnahmen": "1,404.80"
+  },
+  {
+    "Datum": "06.09.2009",
+    "Einnahmen": "2,108.70"
+  },
+  {
+    "Datum": "07.09.2009",
+    "Einnahmen": "1,815.60"
+  },
+  {
+    "Datum": "08.09.2009",
+    "Einnahmen": 646.3
+  },
+  {
+    "Datum": "09.09.2009",
+    "Einnahmen": 715.7
+  },
+  {
+    "Datum": "10.09.2009",
+    "Einnahmen": 780.1
+  },
+  {
+    "Datum": "11.09.2009",
+    "Einnahmen": 632
+  },
+  {
+    "Datum": "12.09.2009",
+    "Einnahmen": "1,003.30"
+  },
+  {
+    "Datum": "13.09.2009",
+    "Einnahmen": 761
+  },
+  {
+    "Datum": "14.09.2009",
+    "Einnahmen": "1,173.60"
+  },
+  {
+    "Datum": "15.09.2009",
+    "Einnahmen": 503.7
+  },
+  {
+    "Datum": "16.09.2009",
+    "Einnahmen": "1,175.50"
+  },
+  {
+    "Datum": "17.09.2009",
+    "Einnahmen": 496.6
+  },
+  {
+    "Datum": "18.09.2009",
+    "Einnahmen": 778.3
+  },
+  {
+    "Datum": "19.09.2009",
+    "Einnahmen": 317.2
+  },
+  {
+    "Datum": "20.09.2009",
+    "Einnahmen": "1,846.80"
+  },
+  {
+    "Datum": "21.09.2009",
+    "Einnahmen": 638.7
+  },
+  {
+    "Datum": "22.09.2009",
+    "Einnahmen": 510
+  },
+  {
+    "Datum": "23.09.2009",
+    "Einnahmen": 913
+  },
+  {
+    "Datum": "24.09.2009",
+    "Einnahmen": 729.7
+  },
+  {
+    "Datum": "25.09.2009",
+    "Einnahmen": "1,001.90"
+  },
+  {
+    "Datum": "26.09.2009",
+    "Einnahmen": "1,089.40"
+  },
+  {
+    "Datum": "27.09.2009",
+    "Einnahmen": "1,052.30"
+  },
+  {
+    "Datum": "28.09.2009",
+    "Einnahmen": "1,794.50"
+  },
+  {
+    "Datum": "29.09.2009",
+    "Einnahmen": 431
+  },
+  {
+    "Datum": "30.09.2009",
+    "Einnahmen": 594.7
+  },
+  {
+    "Datum": "01.10.2009",
+    "Einnahmen": 613.1
+  },
+  {
+    "Datum": "02.10.2009",
+    "Einnahmen": 869.6
+  },
+  {
+    "Datum": "03.10.2009",
+    "Einnahmen": "1,122.50"
+  },
+  {
+    "Datum": "04.10.2009",
+    "Einnahmen": "1,273.60"
+  },
+  {
+    "Datum": "05.10.2009",
+    "Einnahmen": "1,004.90"
+  },
+  {
+    "Datum": "06.10.2009",
+    "Einnahmen": 324.9
+  },
+  {
+    "Datum": "07.10.2009",
+    "Einnahmen": 604.8
+  },
+  {
+    "Datum": "08.10.2009",
+    "Einnahmen": 877.9
+  },
+  {
+    "Datum": "09.10.2009",
+    "Einnahmen": "1,086.60"
+  },
+  {
+    "Datum": "10.10.2009",
+    "Einnahmen": "1,547.20"
+  },
+  {
+    "Datum": "11.10.2009",
+    "Einnahmen": 830.8
+  },
+  {
+    "Datum": "12.10.2009",
+    "Einnahmen": 574.9
+  },
+  {
+    "Datum": "13.10.2009",
+    "Einnahmen": 546.6
+  },
+  {
+    "Datum": "14.10.2009",
+    "Einnahmen": "1,073.30"
+  },
+  {
+    "Datum": "15.10.2009",
+    "Einnahmen": 614.8
+  },
+  {
+    "Datum": "16.10.2009",
+    "Einnahmen": 879.3
+  },
+  {
+    "Datum": "17.10.2009",
+    "Einnahmen": 993.8
+  },
+  {
+    "Datum": "18.10.2009",
+    "Einnahmen": 627.2
+  },
+  {
+    "Datum": "19.10.2009",
+    "Einnahmen": 649.5
+  },
+  {
+    "Datum": "20.10.2009",
+    "Einnahmen": 776.8
+  },
+  {
+    "Datum": "21.10.2009",
+    "Einnahmen": "1,213.20"
+  },
+  {
+    "Datum": "22.10.2009",
+    "Einnahmen": "1,045.00"
+  },
+  {
+    "Datum": "23.10.2009",
+    "Einnahmen": 619.3
+  },
+  {
+    "Datum": "24.10.2009",
+    "Einnahmen": 954.3
+  },
+  {
+    "Datum": "25.10.2009",
+    "Einnahmen": 724.8
+  },
+  {
+    "Datum": "26.10.2009",
+    "Einnahmen": 346.2
+  },
+  {
+    "Datum": "27.10.2009",
+    "Einnahmen": 978
+  },
+  {
+    "Datum": "28.10.2009",
+    "Einnahmen": 680.8
+  },
+  {
+    "Datum": "29.10.2009",
+    "Einnahmen": 384.8
+  },
+  {
+    "Datum": "30.10.2009",
+    "Einnahmen": 883.1
+  },
+  {
+    "Datum": "31.10.2009",
+    "Einnahmen": 608.7
+  },
+  {
+    "Datum": "01.11.2009",
+    "Einnahmen": 863.1
+  },
+  {
+    "Datum": "02.11.2009",
+    "Einnahmen": 424.1
+  },
+  {
+    "Datum": "03.11.2009",
+    "Einnahmen": 514.4
+  },
+  {
+    "Datum": "04.11.2009",
+    "Einnahmen": "1,153.40"
+  },
+  {
+    "Datum": "05.11.2009",
+    "Einnahmen": 940.1
+  },
+  {
+    "Datum": "06.11.2009",
+    "Einnahmen": "1,528.10"
+  },
+  {
+    "Datum": "07.11.2009",
+    "Einnahmen": "1,140.30"
+  },
+  {
+    "Datum": "08.11.2009",
+    "Einnahmen": 640.1
+  },
+  {
+    "Datum": "09.11.2009",
+    "Einnahmen": 641.7
+  },
+  {
+    "Datum": "10.11.2009",
+    "Einnahmen": 429.8
+  },
+  {
+    "Datum": "11.11.2009",
+    "Einnahmen": 756.7
+  },
+  {
+    "Datum": "12.11.2009",
+    "Einnahmen": 845.8
+  },
+  {
+    "Datum": "13.11.2009",
+    "Einnahmen": "1,117.50"
+  },
+  {
+    "Datum": "14.11.2009",
+    "Einnahmen": "1,354.30"
+  },
+  {
+    "Datum": "15.11.2009",
+    "Einnahmen": 783.3
+  },
+  {
+    "Datum": "16.11.2009",
+    "Einnahmen": 996.3
+  },
+  {
+    "Datum": "17.11.2009",
+    "Einnahmen": 550.2
+  },
+  {
+    "Datum": "18.11.2009",
+    "Einnahmen": 976.7
+  },
+  {
+    "Datum": "19.11.2009",
+    "Einnahmen": 640.9
+  },
+  {
+    "Datum": "20.11.2009",
+    "Einnahmen": "1,521.70"
+  },
+  {
+    "Datum": "21.11.2009",
+    "Einnahmen": "1,203.00"
+  },
+  {
+    "Datum": "22.11.2009",
+    "Einnahmen": "1,434.40"
+  },
+  {
+    "Datum": "23.11.2009",
+    "Einnahmen": 576.4
+  },
+  {
+    "Datum": "24.11.2009",
+    "Einnahmen": "1,509.90"
+  },
+  {
+    "Datum": "26.11.2009",
+    "Einnahmen": 480.9
+  },
+  {
+    "Datum": "27.11.2009",
+    "Einnahmen": "1,170.80"
+  },
+  {
+    "Datum": "28.11.2009",
+    "Einnahmen": 778.2
+  },
+  {
+    "Datum": "29.11.2009",
+    "Einnahmen": "1,120.40"
+  },
+  {
+    "Datum": "30.11.2009",
+    "Einnahmen": 514.7
+  },
+  {
+    "Datum": "01.12.2009",
+    "Einnahmen": 532.5
+  },
+  {
+    "Datum": "02.12.2009",
+    "Einnahmen": 590
+  },
+  {
+    "Datum": "03.12.2009",
+    "Einnahmen": 423.9
+  },
+  {
+    "Datum": "04.12.2009",
+    "Einnahmen": "3,042.80"
+  },
+  {
+    "Datum": "05.12.2009",
+    "Einnahmen": "1,062.70"
+  },
+  {
+    "Datum": "06.12.2009",
+    "Einnahmen": "1,274.00"
+  },
+  {
+    "Datum": "07.12.2009",
+    "Einnahmen": 883
+  },
+  {
+    "Datum": "08.12.2009",
+    "Einnahmen": "1,200.10"
+  },
+  {
+    "Datum": "09.12.2009",
+    "Einnahmen": 678.3
+  },
+  {
+    "Datum": "10.12.2009",
+    "Einnahmen": "2,076.80"
+  },
+  {
+    "Datum": "11.12.2009",
+    "Einnahmen": "2,223.50"
+  },
+  {
+    "Datum": "12.12.2009",
+    "Einnahmen": 763.8
+  },
+  {
+    "Datum": "13.12.2009",
+    "Einnahmen": "1,166.10"
+  },
+  {
+    "Datum": "14.12.2009",
+    "Einnahmen": 819.1
+  },
+  {
+    "Datum": "15.12.2009",
+    "Einnahmen": 851.4
+  },
+  {
+    "Datum": "16.12.2009",
+    "Einnahmen": 838.1
+  },
+  {
+    "Datum": "17.12.2009",
+    "Einnahmen": 693.8
+  },
+  {
+    "Datum": "18.12.2009",
+    "Einnahmen": "1,602.50"
+  },
+  {
+    "Datum": "19.12.2009",
+    "Einnahmen": "1,168.40"
+  },
+  {
+    "Datum": "20.12.2009",
+    "Einnahmen": 553.2
+  },
+  {
+    "Datum": "21.12.2009",
+    "Einnahmen": "1,401.40"
+  },
+  {
+    "Datum": "22.12.2009",
+    "Einnahmen": 989.3
+  },
+  {
+    "Datum": "23.12.2009",
+    "Einnahmen": 781.6
+  },
+  {
+    "Datum": "25.12.2009",
+    "Einnahmen": "2,011.60"
+  },
+  {
+    "Datum": "26.12.2009",
+    "Einnahmen": "2,074.50"
+  },
+  {
+    "Datum": "27.12.2009",
+    "Einnahmen": 980.9
+  },
+  {
+    "Datum": "28.12.2009",
+    "Einnahmen": "1,049.90"
+  },
+  {
+    "Datum": "29.12.2009",
+    "Einnahmen": 715.7
+  },
+  {
+    "Datum": "30.12.2009",
+    "Einnahmen": 806.1
+  },
+  {
+    "Datum": "31.12.2009",
+    "Einnahmen": "1,800.60"
+  },
+  {
+    "Datum": "01.01.2010",
+    "Einnahmen": 390
+  },
+  {
+    "Datum": "02.01.2010",
+    "Einnahmen": 713.6
+  },
+  {
+    "Datum": "03.01.2010",
+    "Einnahmen": 888.7
+  },
+  {
+    "Datum": "04.01.2010",
+    "Einnahmen": 594.5
+  },
+  {
+    "Datum": "05.01.2010",
+    "Einnahmen": 516.4
+  },
+  {
+    "Datum": "06.01.2010",
+    "Einnahmen": 662.7
+  },
+  {
+    "Datum": "07.01.2010",
+    "Einnahmen": 482.6
+  },
+  {
+    "Datum": "08.01.2010",
+    "Einnahmen": "1,376.30"
+  },
+  {
+    "Datum": "09.01.2010",
+    "Einnahmen": 762.3
+  },
+  {
+    "Datum": "10.01.2010",
+    "Einnahmen": 680.6
+  },
+  {
+    "Datum": "11.01.2010",
+    "Einnahmen": 879.9
+  },
+  {
+    "Datum": "12.01.2010",
+    "Einnahmen": 514.8
+  },
+  {
+    "Datum": "13.01.2010",
+    "Einnahmen": 331
+  },
+  {
+    "Datum": "14.01.2010",
+    "Einnahmen": 553.4
+  },
+  {
+    "Datum": "15.01.2010",
+    "Einnahmen": 826.7
+  },
+  {
+    "Datum": "16.01.2010",
+    "Einnahmen": "1,134.90"
+  },
+  {
+    "Datum": "17.01.2010",
+    "Einnahmen": 983
+  },
+  {
+    "Datum": "18.01.2010",
+    "Einnahmen": 840.2
+  },
+  {
+    "Datum": "19.01.2010",
+    "Einnahmen": 495.6
+  },
+  {
+    "Datum": "20.01.2010",
+    "Einnahmen": 891.6
+  },
+  {
+    "Datum": "21.01.2010",
+    "Einnahmen": 858.5
+  },
+  {
+    "Datum": "22.01.2010",
+    "Einnahmen": "1,216.30"
+  },
+  {
+    "Datum": "23.01.2010",
+    "Einnahmen": 945.7
+  },
+  {
+    "Datum": "24.01.2010",
+    "Einnahmen": 505.6
+  },
+  {
+    "Datum": "25.01.2010",
+    "Einnahmen": 833
+  },
+  {
+    "Datum": "26.01.2010",
+    "Einnahmen": 860.7
+  },
+  {
+    "Datum": "27.01.2010",
+    "Einnahmen": 645.9
+  },
+  {
+    "Datum": "28.01.2010",
+    "Einnahmen": 475
+  },
+  {
+    "Datum": "29.01.2010",
+    "Einnahmen": "1,405.10"
+  },
+  {
+    "Datum": "30.01.2010",
+    "Einnahmen": 867.2
+  },
+  {
+    "Datum": "31.01.2010",
+    "Einnahmen": "1,209.80"
+  },
+  {
+    "Datum": "01.02.2010",
+    "Einnahmen": 632.7
+  },
+  {
+    "Datum": "02.02.2010",
+    "Einnahmen": 408
+  },
+  {
+    "Datum": "03.02.2010",
+    "Einnahmen": 781.6
+  },
+  {
+    "Datum": "04.02.2010",
+    "Einnahmen": 878.4
+  },
+  {
+    "Datum": "05.02.2010",
+    "Einnahmen": 970.8
+  },
+  {
+    "Datum": "06.02.2010",
+    "Einnahmen": "1,060.10"
+  },
+  {
+    "Datum": "07.02.2010",
+    "Einnahmen": 579.5
+  },
+  {
+    "Datum": "08.02.2010",
+    "Einnahmen": 580.6
+  },
+  {
+    "Datum": "09.02.2010",
+    "Einnahmen": 661.9
+  },
+  {
+    "Datum": "10.02.2010",
+    "Einnahmen": 601.1
+  },
+  {
+    "Datum": "11.02.2010",
+    "Einnahmen": 977.2
+  },
+  {
+    "Datum": "12.02.2010",
+    "Einnahmen": 640.9
+  },
+  {
+    "Datum": "13.02.2010",
+    "Einnahmen": 842.3
+  },
+  {
+    "Datum": "14.02.2010",
+    "Einnahmen": "1,224.40"
+  },
+  {
+    "Datum": "15.02.2010",
+    "Einnahmen": 663
+  },
+  {
+    "Datum": "16.02.2010",
+    "Einnahmen": 415.6
+  },
+  {
+    "Datum": "17.02.2010",
+    "Einnahmen": 807.1
+  },
+  {
+    "Datum": "18.02.2010",
+    "Einnahmen": 657.4
+  },
+  {
+    "Datum": "19.02.2010",
+    "Einnahmen": "1,972.40"
+  },
+  {
+    "Datum": "20.02.2010",
+    "Einnahmen": 658.4
+  },
+  {
+    "Datum": "21.02.2010",
+    "Einnahmen": 861.1
+  },
+  {
+    "Datum": "22.02.2010",
+    "Einnahmen": 642.7
+  },
+  {
+    "Datum": "23.02.2010",
+    "Einnahmen": 599.1
+  },
+  {
+    "Datum": "24.02.2010",
+    "Einnahmen": 860.5
+  },
+  {
+    "Datum": "25.02.2010",
+    "Einnahmen": 738.8
+  },
+  {
+    "Datum": "26.02.2010",
+    "Einnahmen": "1,297.80"
+  },
+  {
+    "Datum": "27.02.2010",
+    "Einnahmen": 902
+  },
+  {
+    "Datum": "28.02.2010",
+    "Einnahmen": 693.2
+  },
+  {
+    "Datum": "01.03.2010",
+    "Einnahmen": 618
+  },
+  {
+    "Datum": "02.03.2010",
+    "Einnahmen": 446.3
+  },
+  {
+    "Datum": "03.03.2010",
+    "Einnahmen": 380.3
+  },
+  {
+    "Datum": "04.03.2010",
+    "Einnahmen": 772.7
+  },
+  {
+    "Datum": "05.03.2010",
+    "Einnahmen": 719.1
+  },
+  {
+    "Datum": "06.03.2010",
+    "Einnahmen": "1,210.30"
+  },
+  {
+    "Datum": "07.03.2010",
+    "Einnahmen": "1,029.40"
+  },
+  {
+    "Datum": "08.03.2010",
+    "Einnahmen": 382.4
+  },
+  {
+    "Datum": "09.03.2010",
+    "Einnahmen": 730
+  },
+  {
+    "Datum": "10.03.2010",
+    "Einnahmen": 534.3
+  },
+  {
+    "Datum": "11.03.2010",
+    "Einnahmen": 747.2
+  },
+  {
+    "Datum": "12.03.2010",
+    "Einnahmen": "2,131.40"
+  },
+  {
+    "Datum": "13.03.2010",
+    "Einnahmen": "1,422.70"
+  },
+  {
+    "Datum": "14.03.2010",
+    "Einnahmen": "1,487.50"
+  },
+  {
+    "Datum": "15.03.2010",
+    "Einnahmen": 725.9
+  },
+  {
+    "Datum": "16.03.2010",
+    "Einnahmen": 555.7
+  },
+  {
+    "Datum": "17.03.2010",
+    "Einnahmen": 575.7
+  },
+  {
+    "Datum": "18.03.2010",
+    "Einnahmen": 755
+  },
+  {
+    "Datum": "19.03.2010",
+    "Einnahmen": 897.4
+  },
+  {
+    "Datum": "20.03.2010",
+    "Einnahmen": "1,142.10"
+  },
+  {
+    "Datum": "21.03.2010",
+    "Einnahmen": "1,170.90"
+  },
+  {
+    "Datum": "22.03.2010",
+    "Einnahmen": 573.5
+  },
+  {
+    "Datum": "23.03.2010",
+    "Einnahmen": 954.7
+  },
+  {
+    "Datum": "24.03.2010",
+    "Einnahmen": "1,208.00"
+  },
+  {
+    "Datum": "25.03.2010",
+    "Einnahmen": 769.3
+  },
+  {
+    "Datum": "26.03.2010",
+    "Einnahmen": 681.3
+  },
+  {
+    "Datum": "27.03.2010",
+    "Einnahmen": 790.7
+  },
+  {
+    "Datum": "28.03.2010",
+    "Einnahmen": "1,013.10"
+  },
+  {
+    "Datum": "29.03.2010",
+    "Einnahmen": "1,003.90"
+  },
+  {
+    "Datum": "30.03.2010",
+    "Einnahmen": 564.9
+  },
+  {
+    "Datum": "31.03.2010",
+    "Einnahmen": 840.1
+  },
+  {
+    "Datum": "01.04.2010",
+    "Einnahmen": 962.1
+  },
+  {
+    "Datum": "02.04.2010",
+    "Einnahmen": 597.8
+  },
+  {
+    "Datum": "03.04.2010",
+    "Einnahmen": 532.2
+  },
+  {
+    "Datum": "04.04.2010",
+    "Einnahmen": 474.7
+  },
+  {
+    "Datum": "05.04.2010",
+    "Einnahmen": "1,725.20"
+  },
+  {
+    "Datum": "06.04.2010",
+    "Einnahmen": 523.4
+  },
+  {
+    "Datum": "07.04.2010",
+    "Einnahmen": 273.4
+  },
+  {
+    "Datum": "08.04.2010",
+    "Einnahmen": 837.8
+  },
+  {
+    "Datum": "09.04.2010",
+    "Einnahmen": "1,147.00"
+  },
+  {
+    "Datum": "10.04.2010",
+    "Einnahmen": 833
+  },
+  {
+    "Datum": "11.04.2010",
+    "Einnahmen": 748.1
+  },
+  {
+    "Datum": "12.04.2010",
+    "Einnahmen": 573.9
+  },
+  {
+    "Datum": "13.04.2010",
+    "Einnahmen": 389.8
+  },
+  {
+    "Datum": "14.04.2010",
+    "Einnahmen": 392.7
+  },
+  {
+    "Datum": "15.04.2010",
+    "Einnahmen": "1,060.50"
+  },
+  {
+    "Datum": "16.04.2010",
+    "Einnahmen": 786.1
+  },
+  {
+    "Datum": "17.04.2010",
+    "Einnahmen": 543.4
+  },
+  {
+    "Datum": "18.04.2010",
+    "Einnahmen": 572.5
+  },
+  {
+    "Datum": "19.04.2010",
+    "Einnahmen": 394.5
+  },
+  {
+    "Datum": "20.04.2010",
+    "Einnahmen": 672.8
+  },
+  {
+    "Datum": "21.04.2010",
+    "Einnahmen": 335.9
+  },
+  {
+    "Datum": "22.04.2010",
+    "Einnahmen": 865.1
+  },
+  {
+    "Datum": "23.04.2010",
+    "Einnahmen": "1,063.90"
+  },
+  {
+    "Datum": "24.04.2010",
+    "Einnahmen": 460.1
+  },
+  {
+    "Datum": "25.04.2010",
+    "Einnahmen": "1,035.00"
+  },
+  {
+    "Datum": "26.04.2010",
+    "Einnahmen": 501.2
+  },
+  {
+    "Datum": "27.04.2010",
+    "Einnahmen": 467.2
+  },
+  {
+    "Datum": "28.04.2010",
+    "Einnahmen": 302.2
+  },
+  {
+    "Datum": "29.04.2010",
+    "Einnahmen": 607.4
+  },
+  {
+    "Datum": "30.04.2010",
+    "Einnahmen": "1,926.80"
+  },
+  {
+    "Datum": "01.05.2010",
+    "Einnahmen": "2,774.50"
+  },
+  {
+    "Datum": "02.05.2010",
+    "Einnahmen": 501.1
+  },
+  {
+    "Datum": "03.05.2010",
+    "Einnahmen": 451.2
+  },
+  {
+    "Datum": "04.05.2010",
+    "Einnahmen": 738
+  },
+  {
+    "Datum": "05.05.2010",
+    "Einnahmen": "1,457.50"
+  },
+  {
+    "Datum": "06.05.2010",
+    "Einnahmen": 525.8
+  },
+  {
+    "Datum": "07.05.2010",
+    "Einnahmen": "1,109.00"
+  },
+  {
+    "Datum": "08.05.2010",
+    "Einnahmen": "1,526.90"
+  },
+  {
+    "Datum": "09.05.2010",
+    "Einnahmen": "2,381.10"
+  },
+  {
+    "Datum": "10.05.2010",
+    "Einnahmen": 492.5
+  },
+  {
+    "Datum": "11.05.2010",
+    "Einnahmen": 557.8
+  },
+  {
+    "Datum": "12.05.2010",
+    "Einnahmen": 791.7
+  },
+  {
+    "Datum": "13.05.2010",
+    "Einnahmen": "1,022.00"
+  },
+  {
+    "Datum": "14.05.2010",
+    "Einnahmen": 311
+  },
+  {
+    "Datum": "15.05.2010",
+    "Einnahmen": "1,681.60"
+  },
+  {
+    "Datum": "16.05.2010",
+    "Einnahmen": "1,426.40"
+  },
+  {
+    "Datum": "17.05.2010",
+    "Einnahmen": 796.3
+  },
+  {
+    "Datum": "18.05.2010",
+    "Einnahmen": 509.8
+  },
+  {
+    "Datum": "19.05.2010",
+    "Einnahmen": 761.3
+  },
+  {
+    "Datum": "20.05.2010",
+    "Einnahmen": 462.2
+  },
+  {
+    "Datum": "21.05.2010",
+    "Einnahmen": 426.6
+  },
+  {
+    "Datum": "22.05.2010",
+    "Einnahmen": 359.6
+  },
+  {
+    "Datum": "23.05.2010",
+    "Einnahmen": 479.9
+  },
+  {
+    "Datum": "24.05.2010",
+    "Einnahmen": "1,269.00"
+  },
+  {
+    "Datum": "25.05.2010",
+    "Einnahmen": 531.8
+  },
+  {
+    "Datum": "26.05.2010",
+    "Einnahmen": 770.4
+  },
+  {
+    "Datum": "27.05.2010",
+    "Einnahmen": 510
+  },
+  {
+    "Datum": "28.05.2010",
+    "Einnahmen": 683.5
+  },
+  {
+    "Datum": "29.05.2010",
+    "Einnahmen": 594.3
+  },
+  {
+    "Datum": "30.05.2010",
+    "Einnahmen": 801.8
+  },
+  {
+    "Datum": "31.05.2010",
+    "Einnahmen": 662.2
+  },
+  {
+    "Datum": "01.06.2010",
+    "Einnahmen": 303.7
+  },
+  {
+    "Datum": "02.06.2010",
+    "Einnahmen": 777.3
+  },
+  {
+    "Datum": "03.06.2010",
+    "Einnahmen": 790.3
+  },
+  {
+    "Datum": "04.06.2010",
+    "Einnahmen": 517.6
+  },
+  {
+    "Datum": "05.06.2010",
+    "Einnahmen": 843.5
+  },
+  {
+    "Datum": "06.06.2010",
+    "Einnahmen": 800.2
+  },
+  {
+    "Datum": "07.06.2010",
+    "Einnahmen": 685.3
+  },
+  {
+    "Datum": "08.06.2010",
+    "Einnahmen": "1,743.60"
+  },
+  {
+    "Datum": "09.06.2010",
+    "Einnahmen": 508.3
+  },
+  {
+    "Datum": "10.06.2010",
+    "Einnahmen": 392.2
+  },
+  {
+    "Datum": "11.06.2010",
+    "Einnahmen": 581.6
+  },
+  {
+    "Datum": "12.06.2010",
+    "Einnahmen": "3,306.40"
+  },
+  {
+    "Datum": "13.06.2010",
+    "Einnahmen": 283.6
+  },
+  {
+    "Datum": "14.06.2010",
+    "Einnahmen": 659
+  },
+  {
+    "Datum": "15.06.2010",
+    "Einnahmen": 412.8
+  },
+  {
+    "Datum": "16.06.2010",
+    "Einnahmen": 459.7
+  },
+  {
+    "Datum": "17.06.2010",
+    "Einnahmen": 270.2
+  },
+  {
+    "Datum": "18.06.2010",
+    "Einnahmen": 694.1
+  },
+  {
+    "Datum": "19.06.2010",
+    "Einnahmen": 594.8
+  },
+  {
+    "Datum": "20.06.2010",
+    "Einnahmen": "1,059.80"
+  },
+  {
+    "Datum": "21.06.2010",
+    "Einnahmen": 658.3
+  },
+  {
+    "Datum": "22.06.2010",
+    "Einnahmen": 657
+  },
+  {
+    "Datum": "23.06.2010",
+    "Einnahmen": 288.7
+  },
+  {
+    "Datum": "24.06.2010",
+    "Einnahmen": 628.7
+  },
+  {
+    "Datum": "25.06.2010",
+    "Einnahmen": 538.1
+  },
+  {
+    "Datum": "26.06.2010",
+    "Einnahmen": 498.9
+  },
+  {
+    "Datum": "27.06.2010",
+    "Einnahmen": "1,067.60"
+  },
+  {
+    "Datum": "28.06.2010",
+    "Einnahmen": 326.2
+  },
+  {
+    "Datum": "29.06.2010",
+    "Einnahmen": 389.7
+  },
+  {
+    "Datum": "30.06.2010",
+    "Einnahmen": 617.5
+  },
+  {
+    "Datum": "01.07.2010",
+    "Einnahmen": "1,120.40"
+  },
+  {
+    "Datum": "02.07.2010",
+    "Einnahmen": 979.9
+  },
+  {
+    "Datum": "03.07.2010",
+    "Einnahmen": "1,182.70"
+  },
+  {
+    "Datum": "04.07.2010",
+    "Einnahmen": "1,334.90"
+  },
+  {
+    "Datum": "05.07.2010",
+    "Einnahmen": 661.5
+  },
+  {
+    "Datum": "06.07.2010",
+    "Einnahmen": 571
+  },
+  {
+    "Datum": "07.07.2010",
+    "Einnahmen": 644.2
+  },
+  {
+    "Datum": "08.07.2010",
+    "Einnahmen": 658.2
+  },
+  {
+    "Datum": "09.07.2010",
+    "Einnahmen": 765.3
+  },
+  {
+    "Datum": "10.07.2010",
+    "Einnahmen": 366.6
+  },
+  {
+    "Datum": "11.07.2010",
+    "Einnahmen": "1,173.10"
+  },
+  {
+    "Datum": "12.07.2010",
+    "Einnahmen": 913.8
+  },
+  {
+    "Datum": "13.07.2010",
+    "Einnahmen": 925.3
+  },
+  {
+    "Datum": "14.07.2010",
+    "Einnahmen": 541.6
+  },
+  {
+    "Datum": "15.07.2010",
+    "Einnahmen": "1,243.70"
+  },
+  {
+    "Datum": "16.07.2010",
+    "Einnahmen": 862.6
+  },
+  {
+    "Datum": "17.07.2010",
+    "Einnahmen": "1,490.20"
+  },
+  {
+    "Datum": "18.07.2010",
+    "Einnahmen": "1,075.50"
+  },
+  {
+    "Datum": "19.07.2010",
+    "Einnahmen": 896.8
+  },
+  {
+    "Datum": "20.07.2010",
+    "Einnahmen": 501.3
+  },
+  {
+    "Datum": "21.07.2010",
+    "Einnahmen": "1,221.50"
+  },
+  {
+    "Datum": "22.07.2010",
+    "Einnahmen": "1,053.60"
+  },
+  {
+    "Datum": "23.07.2010",
+    "Einnahmen": 509
+  },
+  {
+    "Datum": "24.07.2010",
+    "Einnahmen": 754.3
+  },
+  {
+    "Datum": "25.07.2010",
+    "Einnahmen": 884
+  },
+  {
+    "Datum": "26.07.2010",
+    "Einnahmen": "1,230.80"
+  },
+  {
+    "Datum": "27.07.2010",
+    "Einnahmen": 541.3
+  },
+  {
+    "Datum": "28.07.2010",
+    "Einnahmen": 816.3
+  },
+  {
+    "Datum": "29.07.2010",
+    "Einnahmen": "1,506.00"
+  },
+  {
+    "Datum": "30.07.2010",
+    "Einnahmen": 640
+  },
+  {
+    "Datum": "31.07.2010",
+    "Einnahmen": 971.8
+  },
+  {
+    "Datum": "01.08.2010",
+    "Einnahmen": "1,532.30"
+  },
+  {
+    "Datum": "02.08.2010",
+    "Einnahmen": "1,262.20"
+  },
+  {
+    "Datum": "03.08.2010",
+    "Einnahmen": 914.9
+  },
+  {
+    "Datum": "04.08.2010",
+    "Einnahmen": 721.1
+  },
+  {
+    "Datum": "05.08.2010",
+    "Einnahmen": 335.8
+  },
+  {
+    "Datum": "06.08.2010",
+    "Einnahmen": "1,079.80"
+  },
+  {
+    "Datum": "07.08.2010",
+    "Einnahmen": "1,318.20"
+  },
+  {
+    "Datum": "08.08.2010",
+    "Einnahmen": "1,098.40"
+  },
+  {
+    "Datum": "09.08.2010",
+    "Einnahmen": 891.8
+  },
+  {
+    "Datum": "10.08.2010",
+    "Einnahmen": 871.9
+  },
+  {
+    "Datum": "11.08.2010",
+    "Einnahmen": 451.1
+  },
+  {
+    "Datum": "12.08.2010",
+    "Einnahmen": 808.3
+  },
+  {
+    "Datum": "13.08.2010",
+    "Einnahmen": "1,545.50"
+  },
+  {
+    "Datum": "14.08.2010",
+    "Einnahmen": 543
+  },
+  {
+    "Datum": "15.08.2010",
+    "Einnahmen": 952.8
+  },
+  {
+    "Datum": "16.08.2010",
+    "Einnahmen": 499.7
+  },
+  {
+    "Datum": "17.08.2010",
+    "Einnahmen": 546.3
+  },
+  {
+    "Datum": "18.08.2010",
+    "Einnahmen": 367.5
+  },
+  {
+    "Datum": "19.08.2010",
+    "Einnahmen": 541.5
+  },
+  {
+    "Datum": "20.08.2010",
+    "Einnahmen": "1,014.40"
+  },
+  {
+    "Datum": "21.08.2010",
+    "Einnahmen": 456.2
+  },
+  {
+    "Datum": "22.08.2010",
+    "Einnahmen": "2,122.10"
+  },
+  {
+    "Datum": "24.08.2010",
+    "Einnahmen": 630.5
+  },
+  {
+    "Datum": "25.08.2010",
+    "Einnahmen": 575.2
+  },
+  {
+    "Datum": "26.08.2010",
+    "Einnahmen": 659.2
+  },
+  {
+    "Datum": "27.08.2010",
+    "Einnahmen": "1,434.00"
+  },
+  {
+    "Datum": "28.08.2010",
+    "Einnahmen": 852.8
+  },
+  {
+    "Datum": "29.08.2010",
+    "Einnahmen": 737.5
+  },
+  {
+    "Datum": "30.08.2010",
+    "Einnahmen": 948.3
+  },
+  {
+    "Datum": "31.08.2010",
+    "Einnahmen": 919.9
+  },
+  {
+    "Datum": "01.09.2010",
+    "Einnahmen": 655.5
+  },
+  {
+    "Datum": "02.09.2010",
+    "Einnahmen": 545.4
+  },
+  {
+    "Datum": "03.09.2010",
+    "Einnahmen": 485.2
+  },
+  {
+    "Datum": "04.09.2010",
+    "Einnahmen": "1,132.50"
+  },
+  {
+    "Datum": "05.09.2010",
+    "Einnahmen": "1,262.40"
+  },
+  {
+    "Datum": "06.09.2010",
+    "Einnahmen": "1,070.20"
+  },
+  {
+    "Datum": "07.09.2010",
+    "Einnahmen": 544.3
+  },
+  {
+    "Datum": "08.09.2010",
+    "Einnahmen": 487.9
+  },
+  {
+    "Datum": "09.09.2010",
+    "Einnahmen": 688.2
+  },
+  {
+    "Datum": "10.09.2010",
+    "Einnahmen": 894.6
+  },
+  {
+    "Datum": "11.09.2010",
+    "Einnahmen": "1,269.10"
+  },
+  {
+    "Datum": "12.09.2010",
+    "Einnahmen": 832
+  },
+  {
+    "Datum": "13.09.2010",
+    "Einnahmen": 643.5
+  },
+  {
+    "Datum": "14.09.2010",
+    "Einnahmen": 754.5
+  },
+  {
+    "Datum": "15.09.2010",
+    "Einnahmen": 625
+  },
+  {
+    "Datum": "16.09.2010",
+    "Einnahmen": 430.9
+  },
+  {
+    "Datum": "17.09.2010",
+    "Einnahmen": 621.5
+  },
+  {
+    "Datum": "18.09.2010",
+    "Einnahmen": 738
+  },
+  {
+    "Datum": "19.09.2010",
+    "Einnahmen": 841.5
+  },
+  {
+    "Datum": "20.09.2010",
+    "Einnahmen": 698.8
+  },
+  {
+    "Datum": "21.09.2010",
+    "Einnahmen": 344
+  },
+  {
+    "Datum": "22.09.2010",
+    "Einnahmen": 780.4
+  },
+  {
+    "Datum": "23.09.2010",
+    "Einnahmen": 458.4
+  },
+  {
+    "Datum": "24.09.2010",
+    "Einnahmen": "1,008.80"
+  },
+  {
+    "Datum": "25.09.2010",
+    "Einnahmen": "1,333.20"
+  },
+  {
+    "Datum": "26.09.2010",
+    "Einnahmen": "1,374.90"
+  },
+  {
+    "Datum": "27.09.2010",
+    "Einnahmen": 503.4
+  },
+  {
+    "Datum": "28.09.2010",
+    "Einnahmen": 609.2
+  },
+  {
+    "Datum": "29.09.2010",
+    "Einnahmen": 877.4
+  },
+  {
+    "Datum": "30.09.2010",
+    "Einnahmen": 755.6
+  },
+  {
+    "Datum": "01.10.2010",
+    "Einnahmen": "1,253.90"
+  },
+  {
+    "Datum": "02.10.2010",
+    "Einnahmen": 679.4
+  },
+  {
+    "Datum": "03.10.2010",
+    "Einnahmen": 781.3
+  },
+  {
+    "Datum": "04.10.2010",
+    "Einnahmen": 472.1
+  },
+  {
+    "Datum": "05.10.2010",
+    "Einnahmen": 770
+  },
+  {
+    "Datum": "06.10.2010",
+    "Einnahmen": 741.5
+  },
+  {
+    "Datum": "07.10.2010",
+    "Einnahmen": 834.7
+  },
+  {
+    "Datum": "08.10.2010",
+    "Einnahmen": "1,153.20"
+  },
+  {
+    "Datum": "09.10.2010",
+    "Einnahmen": 999.6
+  },
+  {
+    "Datum": "10.10.2010",
+    "Einnahmen": "1,065.30"
+  },
+  {
+    "Datum": "11.10.2010",
+    "Einnahmen": 625.5
+  },
+  {
+    "Datum": "12.10.2010",
+    "Einnahmen": 891.5
+  },
+  {
+    "Datum": "13.10.2010",
+    "Einnahmen": 406.8
+  },
+  {
+    "Datum": "14.10.2010",
+    "Einnahmen": 487.7
+  },
+  {
+    "Datum": "15.10.2010",
+    "Einnahmen": "1,494.60"
+  },
+  {
+    "Datum": "16.10.2010",
+    "Einnahmen": 942.4
+  },
+  {
+    "Datum": "17.10.2010",
+    "Einnahmen": 883.8
+  },
+  {
+    "Datum": "18.10.2010",
+    "Einnahmen": 971.8
+  },
+  {
+    "Datum": "19.10.2010",
+    "Einnahmen": "1,344.50"
+  },
+  {
+    "Datum": "20.10.2010",
+    "Einnahmen": 849.2
+  },
+  {
+    "Datum": "21.10.2010",
+    "Einnahmen": 853.9
+  },
+  {
+    "Datum": "22.10.2010",
+    "Einnahmen": 878.1
+  },
+  {
+    "Datum": "23.10.2010",
+    "Einnahmen": 913.6
+  },
+  {
+    "Datum": "24.10.2010",
+    "Einnahmen": 566.1
+  },
+  {
+    "Datum": "25.10.2010",
+    "Einnahmen": 805.5
+  },
+  {
+    "Datum": "26.10.2010",
+    "Einnahmen": 531.1
+  },
+  {
+    "Datum": "27.10.2010",
+    "Einnahmen": 482.7
+  },
+  {
+    "Datum": "28.10.2010",
+    "Einnahmen": 683.3
+  },
+  {
+    "Datum": "29.10.2010",
+    "Einnahmen": "1,842.80"
+  },
+  {
+    "Datum": "30.10.2010",
+    "Einnahmen": "1,752.50"
+  },
+  {
+    "Datum": "31.10.2010",
+    "Einnahmen": "1,391.30"
+  },
+  {
+    "Datum": "01.11.2010",
+    "Einnahmen": "1,586.01"
+  },
+  {
+    "Datum": "02.11.2010",
+    "Einnahmen": 886.2
+  },
+  {
+    "Datum": "03.11.2010",
+    "Einnahmen": 998.9
+  },
+  {
+    "Datum": "04.11.2010",
+    "Einnahmen": 611.2
+  },
+  {
+    "Datum": "05.11.2010",
+    "Einnahmen": 377.5
+  },
+  {
+    "Datum": "06.11.2010",
+    "Einnahmen": "1,488.30"
+  },
+  {
+    "Datum": "07.11.2010",
+    "Einnahmen": 860.3
+  },
+  {
+    "Datum": "08.11.2010",
+    "Einnahmen": "1,000.80"
+  },
+  {
+    "Datum": "09.11.2010",
+    "Einnahmen": 851.6
+  },
+  {
+    "Datum": "10.11.2010",
+    "Einnahmen": 263.5
+  },
+  {
+    "Datum": "11.11.2010",
+    "Einnahmen": 687.4
+  },
+  {
+    "Datum": "12.11.2010",
+    "Einnahmen": "1,544.10"
+  },
+  {
+    "Datum": "13.11.2010",
+    "Einnahmen": "1,022.70"
+  },
+  {
+    "Datum": "14.11.2010",
+    "Einnahmen": 907.6
+  },
+  {
+    "Datum": "15.11.2010",
+    "Einnahmen": "1,049.30"
+  },
+  {
+    "Datum": "16.11.2010",
+    "Einnahmen": 655.7
+  },
+  {
+    "Datum": "17.11.2010",
+    "Einnahmen": 888.4
+  },
+  {
+    "Datum": "18.11.2010",
+    "Einnahmen": 840.9
+  },
+  {
+    "Datum": "19.11.2010",
+    "Einnahmen": 874.3
+  },
+  {
+    "Datum": "20.11.2010",
+    "Einnahmen": "1,087.10"
+  },
+  {
+    "Datum": "21.11.2010",
+    "Einnahmen": "1,240.70"
+  },
+  {
+    "Datum": "22.11.2010",
+    "Einnahmen": 513.5
+  },
+  {
+    "Datum": "23.11.2010",
+    "Einnahmen": 460.4
+  },
+  {
+    "Datum": "24.11.2010",
+    "Einnahmen": 751.9
+  },
+  {
+    "Datum": "25.11.2010",
+    "Einnahmen": "1,375.70"
+  },
+  {
+    "Datum": "26.11.2010",
+    "Einnahmen": "1,041.70"
+  },
+  {
+    "Datum": "27.11.2010",
+    "Einnahmen": "1,226.30"
+  },
+  {
+    "Datum": "28.11.2010",
+    "Einnahmen": "1,689.60"
+  },
+  {
+    "Datum": "29.11.2010",
+    "Einnahmen": "1,072.20"
+  },
+  {
+    "Datum": "30.11.2010",
+    "Einnahmen": 720.7
+  },
+  {
+    "Datum": "01.12.2010",
+    "Einnahmen": "1,500.90"
+  },
+  {
+    "Datum": "02.12.2010",
+    "Einnahmen": 680.9
+  },
+  {
+    "Datum": "03.12.2010",
+    "Einnahmen": "4,320.15"
+  },
+  {
+    "Datum": "04.12.2010",
+    "Einnahmen": "1,025.70"
+  },
+  {
+    "Datum": "05.12.2010",
+    "Einnahmen": 933
+  },
+  {
+    "Datum": "06.12.2010",
+    "Einnahmen": 521.6
+  },
+  {
+    "Datum": "07.12.2010",
+    "Einnahmen": "1,094.40"
+  },
+  {
+    "Datum": "08.12.2010",
+    "Einnahmen": "1,116.50"
+  },
+  {
+    "Datum": "09.12.2010",
+    "Einnahmen": 997.9
+  },
+  {
+    "Datum": "10.12.2010",
+    "Einnahmen": 846.8
+  },
+  {
+    "Datum": "11.12.2010",
+    "Einnahmen": 825
+  },
+  {
+    "Datum": "12.12.2010",
+    "Einnahmen": "1,284.50"
+  },
+  {
+    "Datum": "13.12.2010",
+    "Einnahmen": "1,399.60"
+  },
+  {
+    "Datum": "14.12.2010",
+    "Einnahmen": 729.2
+  },
+  {
+    "Datum": "15.12.2010",
+    "Einnahmen": "1,312.00"
+  },
+  {
+    "Datum": "16.12.2010",
+    "Einnahmen": 236.6
+  },
+  {
+    "Datum": "17.12.2010",
+    "Einnahmen": "1,693.70"
+  },
+  {
+    "Datum": "18.12.2010",
+    "Einnahmen": "1,152.60"
+  },
+  {
+    "Datum": "19.12.2010",
+    "Einnahmen": 886.8
+  },
+  {
+    "Datum": "20.12.2010",
+    "Einnahmen": 805.5
+  },
+  {
+    "Datum": "21.12.2010",
+    "Einnahmen": 529.4
+  },
+  {
+    "Datum": "22.12.2010",
+    "Einnahmen": "1,161.00"
+  },
+  {
+    "Datum": "23.12.2010",
+    "Einnahmen": "1,933.10"
+  },
+  {
+    "Datum": "25.12.2010",
+    "Einnahmen": "2,568.90"
+  },
+  {
+    "Datum": "26.12.2010",
+    "Einnahmen": "2,642.60"
+  },
+  {
+    "Datum": "27.12.2010",
+    "Einnahmen": 941.2
+  },
+  {
+    "Datum": "28.12.2010",
+    "Einnahmen": 654.4
+  },
+  {
+    "Datum": "29.12.2010",
+    "Einnahmen": 672.8
+  },
+  {
+    "Datum": "30.12.2010",
+    "Einnahmen": 762.6
+  },
+  {
+    "Datum": "31.12.2010",
+    "Einnahmen": "1,876.80"
+  },
+  {
+    "Datum": "01.01.2011",
+    "Einnahmen": 487.3
+  },
+  {
+    "Datum": "02.01.2011",
+    "Einnahmen": 761.2
+  },
+  {
+    "Datum": "03.01.2011",
+    "Einnahmen": 599.3
+  },
+  {
+    "Datum": "04.01.2011",
+    "Einnahmen": 531.2
+  },
+  {
+    "Datum": "05.01.2011",
+    "Einnahmen": 642.8
+  },
+  {
+    "Datum": "06.01.2011",
+    "Einnahmen": "1,099.50"
+  },
+  {
+    "Datum": "07.01.2011",
+    "Einnahmen": 724.7
+  },
+  {
+    "Datum": "08.01.2011",
+    "Einnahmen": "1,158.90"
+  },
+  {
+    "Datum": "09.01.2011",
+    "Einnahmen": 974.7
+  },
+  {
+    "Datum": "10.01.2011",
+    "Einnahmen": 507.5
+  },
+  {
+    "Datum": "11.01.2011",
+    "Einnahmen": 499.5
+  },
+  {
+    "Datum": "12.01.2011",
+    "Einnahmen": 521.2
+  },
+  {
+    "Datum": "13.01.2011",
+    "Einnahmen": 605.4
+  },
+  {
+    "Datum": "14.01.2011",
+    "Einnahmen": 933.5
+  },
+  {
+    "Datum": "15.01.2011",
+    "Einnahmen": "1,220.60"
+  },
+  {
+    "Datum": "16.01.2011",
+    "Einnahmen": 917.7
+  },
+  {
+    "Datum": "17.01.2011",
+    "Einnahmen": "1,013.70"
+  },
+  {
+    "Datum": "18.01.2011",
+    "Einnahmen": 840.8
+  },
+  {
+    "Datum": "19.01.2011",
+    "Einnahmen": 769.3
+  },
+  {
+    "Datum": "20.01.2011",
+    "Einnahmen": "1,539.20"
+  },
+  {
+    "Datum": "21.01.2011",
+    "Einnahmen": "1,319.60"
+  },
+  {
+    "Datum": "22.01.2011",
+    "Einnahmen": "1,465.50"
+  },
+  {
+    "Datum": "23.01.2011",
+    "Einnahmen": 528.1
+  },
+  {
+    "Datum": "24.01.2011",
+    "Einnahmen": 717.2
+  },
+  {
+    "Datum": "25.01.2011",
+    "Einnahmen": 600.8
+  },
+  {
+    "Datum": "26.01.2011",
+    "Einnahmen": 644.7
+  },
+  {
+    "Datum": "27.01.2011",
+    "Einnahmen": 791.8
+  },
+  {
+    "Datum": "28.01.2011",
+    "Einnahmen": "1,050.50"
+  },
+  {
+    "Datum": "29.01.2011",
+    "Einnahmen": 751.8
+  },
+  {
+    "Datum": "30.01.2011",
+    "Einnahmen": "1,412.10"
+  },
+  {
+    "Datum": "31.01.2011",
+    "Einnahmen": 918.2
+  },
+  {
+    "Datum": "01.02.2011",
+    "Einnahmen": 588.4
+  },
+  {
+    "Datum": "02.02.2011",
+    "Einnahmen": 209.2
+  },
+  {
+    "Datum": "03.02.2011",
+    "Einnahmen": "1,133.40"
+  },
+  {
+    "Datum": "04.02.2011",
+    "Einnahmen": "2,806.00"
+  },
+  {
+    "Datum": "05.02.2011",
+    "Einnahmen": "1,324.20"
+  },
+  {
+    "Datum": "06.02.2011",
+    "Einnahmen": "1,465.50"
+  },
+  {
+    "Datum": "08.02.2011",
+    "Einnahmen": 438.1
+  },
+  {
+    "Datum": "09.02.2011",
+    "Einnahmen": 261.7
+  },
+  {
+    "Datum": "10.02.2011",
+    "Einnahmen": "1,063.00"
+  },
+  {
+    "Datum": "11.02.2011",
+    "Einnahmen": 834.2
+  },
+  {
+    "Datum": "12.02.2011",
+    "Einnahmen": "1,547.50"
+  },
+  {
+    "Datum": "13.02.2011",
+    "Einnahmen": "1,087.00"
+  },
+  {
+    "Datum": "14.02.2011",
+    "Einnahmen": "1,356.20"
+  },
+  {
+    "Datum": "15.02.2011",
+    "Einnahmen": 554.1
+  },
+  {
+    "Datum": "16.02.2011",
+    "Einnahmen": 434.1
+  },
+  {
+    "Datum": "17.02.2011",
+    "Einnahmen": 681.2
+  },
+  {
+    "Datum": "18.02.2011",
+    "Einnahmen": 716.3
+  },
+  {
+    "Datum": "19.02.2011",
+    "Einnahmen": "1,672.00"
+  },
+  {
+    "Datum": "20.02.2011",
+    "Einnahmen": "1,113.00"
+  },
+  {
+    "Datum": "21.02.2011",
+    "Einnahmen": 707.4
+  },
+  {
+    "Datum": "22.02.2011",
+    "Einnahmen": 522.4
+  },
+  {
+    "Datum": "23.02.2011",
+    "Einnahmen": 502.9
+  },
+  {
+    "Datum": "24.02.2011",
+    "Einnahmen": 500.3
+  },
+  {
+    "Datum": "25.02.2011",
+    "Einnahmen": "1,002.50"
+  },
+  {
+    "Datum": "26.02.2011",
+    "Einnahmen": "2,140.20"
+  },
+  {
+    "Datum": "28.02.2011",
+    "Einnahmen": 763.7
+  },
+  {
+    "Datum": "01.03.2011",
+    "Einnahmen": 511.4
+  },
+  {
+    "Datum": "02.03.2011",
+    "Einnahmen": 670.7
+  },
+  {
+    "Datum": "03.03.2011",
+    "Einnahmen": "1,538.60"
+  },
+  {
+    "Datum": "04.03.2011",
+    "Einnahmen": "1,258.30"
+  },
+  {
+    "Datum": "05.03.2011",
+    "Einnahmen": 922.7
+  },
+  {
+    "Datum": "06.03.2011",
+    "Einnahmen": 927.2
+  },
+  {
+    "Datum": "07.03.2011",
+    "Einnahmen": "1,064.80"
+  },
+  {
+    "Datum": "08.03.2011",
+    "Einnahmen": 330.4
+  },
+  {
+    "Datum": "09.03.2011",
+    "Einnahmen": 121.7
+  },
+  {
+    "Datum": "10.03.2011",
+    "Einnahmen": 749.8
+  },
+  {
+    "Datum": "11.03.2011",
+    "Einnahmen": "2,225.00"
+  },
+  {
+    "Datum": "12.03.2011",
+    "Einnahmen": 938.2
+  },
+  {
+    "Datum": "13.03.2011",
+    "Einnahmen": "1,767.30"
+  },
+  {
+    "Datum": "14.03.2011",
+    "Einnahmen": "1,487.80"
+  },
+  {
+    "Datum": "15.03.2011",
+    "Einnahmen": 832.1
+  },
+  {
+    "Datum": "16.03.2011",
+    "Einnahmen": 606.2
+  },
+  {
+    "Datum": "17.03.2011",
+    "Einnahmen": 341.3
+  },
+  {
+    "Datum": "18.03.2011",
+    "Einnahmen": "1,126.50"
+  },
+  {
+    "Datum": "19.03.2011",
+    "Einnahmen": "1,162.60"
+  },
+  {
+    "Datum": "20.03.2011",
+    "Einnahmen": 807.8
+  },
+  {
+    "Datum": "21.03.2011",
+    "Einnahmen": 643.8
+  },
+  {
+    "Datum": "23.03.2011",
+    "Einnahmen": 454.1
+  },
+  {
+    "Datum": "24.03.2011",
+    "Einnahmen": 450.8
+  },
+  {
+    "Datum": "25.03.2011",
+    "Einnahmen": "1,356.40"
+  },
+  {
+    "Datum": "26.03.2011",
+    "Einnahmen": "1,038.20"
+  },
+  {
+    "Datum": "27.03.2011",
+    "Einnahmen": "1,074.90"
+  },
+  {
+    "Datum": "28.03.2011",
+    "Einnahmen": 932.1
+  },
+  {
+    "Datum": "29.03.2011",
+    "Einnahmen": 821.7
+  },
+  {
+    "Datum": "30.03.2011",
+    "Einnahmen": 655.6
+  },
+  {
+    "Datum": "31.03.2011",
+    "Einnahmen": 380.4
+  },
+  {
+    "Datum": "01.04.2011",
+    "Einnahmen": 920.6
+  },
+  {
+    "Datum": "02.04.2011",
+    "Einnahmen": "1,485.50"
+  },
+  {
+    "Datum": "03.04.2011",
+    "Einnahmen": "1,000.50"
+  },
+  {
+    "Datum": "04.04.2011",
+    "Einnahmen": 393.4
+  },
+  {
+    "Datum": "05.04.2011",
+    "Einnahmen": 543.4
+  },
+  {
+    "Datum": "06.04.2011",
+    "Einnahmen": 993
+  },
+  {
+    "Datum": "07.04.2011",
+    "Einnahmen": "1,037.80"
+  },
+  {
+    "Datum": "08.04.2011",
+    "Einnahmen": "1,458.50"
+  },
+  {
+    "Datum": "09.04.2011",
+    "Einnahmen": "1,588.60"
+  },
+  {
+    "Datum": "10.04.2011",
+    "Einnahmen": 998.4
+  },
+  {
+    "Datum": "11.04.2011",
+    "Einnahmen": 533.1
+  },
+  {
+    "Datum": "12.04.2011",
+    "Einnahmen": 377.4
+  },
+  {
+    "Datum": "13.04.2011",
+    "Einnahmen": 756.4
+  },
+  {
+    "Datum": "14.04.2011",
+    "Einnahmen": 798.4
+  },
+  {
+    "Datum": "15.04.2011",
+    "Einnahmen": "1,057.50"
+  },
+  {
+    "Datum": "16.04.2011",
+    "Einnahmen": 775.3
+  },
+  {
+    "Datum": "17.04.2011",
+    "Einnahmen": 714
+  },
+  {
+    "Datum": "18.04.2011",
+    "Einnahmen": 583.8
+  },
+  {
+    "Datum": "19.04.2011",
+    "Einnahmen": 448.4
+  },
+  {
+    "Datum": "20.04.2011",
+    "Einnahmen": 308.2
+  },
+  {
+    "Datum": "21.04.2011",
+    "Einnahmen": 415.4
+  },
+  {
+    "Datum": "22.04.2011",
+    "Einnahmen": 605.2
+  },
+  {
+    "Datum": "23.04.2011",
+    "Einnahmen": 230.7
+  },
+  {
+    "Datum": "24.04.2011",
+    "Einnahmen": 835.1
+  },
+  {
+    "Datum": "25.04.2011",
+    "Einnahmen": "1,242.30"
+  },
+  {
+    "Datum": "26.04.2011",
+    "Einnahmen": 604.2
+  },
+  {
+    "Datum": "27.04.2011",
+    "Einnahmen": 745.9
+  },
+  {
+    "Datum": "28.04.2011",
+    "Einnahmen": 728.8
+  },
+  {
+    "Datum": "29.04.2011",
+    "Einnahmen": "1,287.60"
+  },
+  {
+    "Datum": "30.04.2011",
+    "Einnahmen": "1,703.10"
+  },
+  {
+    "Datum": "01.05.2011",
+    "Einnahmen": 896.4
+  },
+  {
+    "Datum": "02.05.2011",
+    "Einnahmen": "1,203.30"
+  },
+  {
+    "Datum": "03.05.2011",
+    "Einnahmen": 515
+  },
+  {
+    "Datum": "04.05.2011",
+    "Einnahmen": 282.2
+  },
+  {
+    "Datum": "05.05.2011",
+    "Einnahmen": 601.9
+  },
+  {
+    "Datum": "06.05.2011",
+    "Einnahmen": 928.5
+  },
+  {
+    "Datum": "07.05.2011",
+    "Einnahmen": 697.5
+  },
+  {
+    "Datum": "08.05.2011",
+    "Einnahmen": "2,508.20"
+  },
+  {
+    "Datum": "09.05.2011",
+    "Einnahmen": "1,382.70"
+  },
+  {
+    "Datum": "10.05.2011",
+    "Einnahmen": 558.6
+  },
+  {
+    "Datum": "11.05.2011",
+    "Einnahmen": 439
+  },
+  {
+    "Datum": "12.05.2011",
+    "Einnahmen": 992.9
+  },
+  {
+    "Datum": "13.05.2011",
+    "Einnahmen": "1,290.00"
+  },
+  {
+    "Datum": "14.05.2011",
+    "Einnahmen": "1,042.00"
+  },
+  {
+    "Datum": "15.05.2011",
+    "Einnahmen": "1,243.60"
+  },
+  {
+    "Datum": "16.05.2011",
+    "Einnahmen": 919.2
+  },
+  {
+    "Datum": "17.05.2011",
+    "Einnahmen": 409.7
+  },
+  {
+    "Datum": "18.05.2011",
+    "Einnahmen": 436.9
+  },
+  {
+    "Datum": "19.05.2011",
+    "Einnahmen": 626
+  },
+  {
+    "Datum": "20.05.2011",
+    "Einnahmen": 588.3
+  },
+  {
+    "Datum": "21.05.2011",
+    "Einnahmen": 806.6
+  },
+  {
+    "Datum": "22.05.2011",
+    "Einnahmen": "1,302.50"
+  },
+  {
+    "Datum": "23.05.2011",
+    "Einnahmen": "1,201.30"
+  },
+  {
+    "Datum": "24.05.2011",
+    "Einnahmen": 795.9
+  },
+  {
+    "Datum": "25.05.2011",
+    "Einnahmen": 451.2
+  },
+  {
+    "Datum": "26.05.2011",
+    "Einnahmen": 524.2
+  },
+  {
+    "Datum": "27.05.2011",
+    "Einnahmen": "1,349.10"
+  },
+  {
+    "Datum": "28.05.2011",
+    "Einnahmen": 590.2
+  },
+  {
+    "Datum": "29.05.2011",
+    "Einnahmen": "1,319.30"
+  },
+  {
+    "Datum": "30.05.2011",
+    "Einnahmen": 675.2
+  },
+  {
+    "Datum": "31.05.2011",
+    "Einnahmen": 462
+  },
+  {
+    "Datum": "01.06.2011",
+    "Einnahmen": 601.1
+  },
+  {
+    "Datum": "02.06.2011",
+    "Einnahmen": "1,145.80"
+  },
+  {
+    "Datum": "03.06.2011",
+    "Einnahmen": 66.5
+  },
+  {
+    "Datum": "04.06.2011",
+    "Einnahmen": 892.8
+  },
+  {
+    "Datum": "05.06.2011",
+    "Einnahmen": "1,530.70"
+  },
+  {
+    "Datum": "06.06.2011",
+    "Einnahmen": 933.2
+  },
+  {
+    "Datum": "07.06.2011",
+    "Einnahmen": "1,095.90"
+  },
+  {
+    "Datum": "08.06.2011",
+    "Einnahmen": 950.9
+  },
+  {
+    "Datum": "09.06.2011",
+    "Einnahmen": 735.9
+  },
+  {
+    "Datum": "10.06.2011",
+    "Einnahmen": "1,021.80"
+  },
+  {
+    "Datum": "11.06.2011",
+    "Einnahmen": 732.4
+  },
+  {
+    "Datum": "12.06.2011",
+    "Einnahmen": "1,028.30"
+  },
+  {
+    "Datum": "13.06.2011",
+    "Einnahmen": "1,799.90"
+  },
+  {
+    "Datum": "14.06.2011",
+    "Einnahmen": 583.1
+  },
+  {
+    "Datum": "15.06.2011",
+    "Einnahmen": 788.5
+  },
+  {
+    "Datum": "16.06.2011",
+    "Einnahmen": "1,042.30"
+  },
+  {
+    "Datum": "17.06.2011",
+    "Einnahmen": "1,231.60"
+  },
+  {
+    "Datum": "18.06.2011",
+    "Einnahmen": "1,392.05"
+  },
+  {
+    "Datum": "19.06.2011",
+    "Einnahmen": 705.9
+  },
+  {
+    "Datum": "20.06.2011",
+    "Einnahmen": 859.6
+  },
+  {
+    "Datum": "21.06.2011",
+    "Einnahmen": 838.1
+  },
+  {
+    "Datum": "22.06.2011",
+    "Einnahmen": 422.5
+  },
+  {
+    "Datum": "23.06.2011",
+    "Einnahmen": 814.4
+  },
+  {
+    "Datum": "24.06.2011",
+    "Einnahmen": 688
+  },
+  {
+    "Datum": "25.06.2011",
+    "Einnahmen": "1,376.80"
+  },
+  {
+    "Datum": "26.06.2011",
+    "Einnahmen": 656
+  },
+  {
+    "Datum": "27.06.2011",
+    "Einnahmen": 446.1
+  },
+  {
+    "Datum": "28.06.2011",
+    "Einnahmen": 509.8
+  },
+  {
+    "Datum": "29.06.2011",
+    "Einnahmen": 537.8
+  },
+  {
+    "Datum": "30.06.2011",
+    "Einnahmen": 626
+  },
+  {
+    "Datum": "01.07.2011",
+    "Einnahmen": 850.7
+  },
+  {
+    "Datum": "02.07.2011",
+    "Einnahmen": 869.2
+  },
+  {
+    "Datum": "03.07.2011",
+    "Einnahmen": "1,162.70"
+  },
+  {
+    "Datum": "04.07.2011",
+    "Einnahmen": 609.2
+  },
+  {
+    "Datum": "05.07.2011",
+    "Einnahmen": 918.8
+  },
+  {
+    "Datum": "06.07.2011",
+    "Einnahmen": 630.4
+  },
+  {
+    "Datum": "07.07.2011",
+    "Einnahmen": 610.3
+  },
+  {
+    "Datum": "08.07.2011",
+    "Einnahmen": "1,343.30"
+  },
+  {
+    "Datum": "09.07.2011",
+    "Einnahmen": 990.9
+  },
+  {
+    "Datum": "10.07.2011",
+    "Einnahmen": "1,305.90"
+  },
+  {
+    "Datum": "11.07.2011",
+    "Einnahmen": 889.1
+  },
+  {
+    "Datum": "12.07.2011",
+    "Einnahmen": 762.5
+  },
+  {
+    "Datum": "13.07.2011",
+    "Einnahmen": 894.5
+  },
+  {
+    "Datum": "14.07.2011",
+    "Einnahmen": 585.7
+  },
+  {
+    "Datum": "15.07.2011",
+    "Einnahmen": "1,253.00"
+  },
+  {
+    "Datum": "16.07.2011",
+    "Einnahmen": "1,202.70"
+  },
+  {
+    "Datum": "17.07.2011",
+    "Einnahmen": "1,174.00"
+  },
+  {
+    "Datum": "18.07.2011",
+    "Einnahmen": "1,024.50"
+  },
+  {
+    "Datum": "19.07.2011",
+    "Einnahmen": 943.5
+  },
+  {
+    "Datum": "20.07.2011",
+    "Einnahmen": 584.9
+  },
+  {
+    "Datum": "21.07.2011",
+    "Einnahmen": 642.4
+  },
+  {
+    "Datum": "22.07.2011",
+    "Einnahmen": "1,059.30"
+  },
+  {
+    "Datum": "23.07.2011",
+    "Einnahmen": "1,027.80"
+  },
+  {
+    "Datum": "24.07.2011",
+    "Einnahmen": 893.1
+  },
+  {
+    "Datum": "25.07.2011",
+    "Einnahmen": "1,071.70"
+  },
+  {
+    "Datum": "26.07.2011",
+    "Einnahmen": 515.1
+  },
+  {
+    "Datum": "27.07.2011",
+    "Einnahmen": 555.8
+  },
+  {
+    "Datum": "28.07.2011",
+    "Einnahmen": 897.8
+  },
+  {
+    "Datum": "29.07.2011",
+    "Einnahmen": 915.3
+  },
+  {
+    "Datum": "30.07.2011",
+    "Einnahmen": 961.9
+  },
+  {
+    "Datum": "31.07.2011",
+    "Einnahmen": "1,221.80"
+  },
+  {
+    "Datum": "01.08.2011",
+    "Einnahmen": 729.5
+  },
+  {
+    "Datum": "02.08.2011",
+    "Einnahmen": 585.4
+  },
+  {
+    "Datum": "03.08.2011",
+    "Einnahmen": 505
+  },
+  {
+    "Datum": "04.08.2011",
+    "Einnahmen": "1,296.80"
+  },
+  {
+    "Datum": "05.08.2011",
+    "Einnahmen": "1,073.80"
+  },
+  {
+    "Datum": "06.08.2011",
+    "Einnahmen": "1,774.20"
+  },
+  {
+    "Datum": "07.08.2011",
+    "Einnahmen": "1,033.70"
+  },
+  {
+    "Datum": "08.08.2011",
+    "Einnahmen": "1,021.70"
+  },
+  {
+    "Datum": "09.08.2011",
+    "Einnahmen": "1,081.70"
+  },
+  {
+    "Datum": "10.08.2011",
+    "Einnahmen": "1,670.50"
+  },
+  {
+    "Datum": "11.08.2011",
+    "Einnahmen": "1,138.80"
+  },
+  {
+    "Datum": "12.08.2011",
+    "Einnahmen": 742
+  },
+  {
+    "Datum": "13.08.2011",
+    "Einnahmen": "1,571.00"
+  },
+  {
+    "Datum": "14.08.2011",
+    "Einnahmen": "1,030.50"
+  },
+  {
+    "Datum": "15.08.2011",
+    "Einnahmen": "1,509.10"
+  },
+  {
+    "Datum": "16.08.2011",
+    "Einnahmen": "1,077.70"
+  },
+  {
+    "Datum": "17.08.2011",
+    "Einnahmen": 744
+  },
+  {
+    "Datum": "18.08.2011",
+    "Einnahmen": "1,107.10"
+  },
+  {
+    "Datum": "19.08.2011",
+    "Einnahmen": 873.7
+  },
+  {
+    "Datum": "20.08.2011",
+    "Einnahmen": 518.6
+  },
+  {
+    "Datum": "21.08.2011",
+    "Einnahmen": 769.5
+  },
+  {
+    "Datum": "22.08.2011",
+    "Einnahmen": 962.3
+  },
+  {
+    "Datum": "23.08.2011",
+    "Einnahmen": 387
+  },
+  {
+    "Datum": "24.08.2011",
+    "Einnahmen": 474.1
+  },
+  {
+    "Datum": "25.08.2011",
+    "Einnahmen": 651.7
+  },
+  {
+    "Datum": "26.08.2011",
+    "Einnahmen": "1,842.20"
+  },
+  {
+    "Datum": "27.08.2011",
+    "Einnahmen": "1,069.90"
+  },
+  {
+    "Datum": "28.08.2011",
+    "Einnahmen": 534.3
+  },
+  {
+    "Datum": "29.08.2011",
+    "Einnahmen": "1,022.70"
+  },
+  {
+    "Datum": "30.08.2011",
+    "Einnahmen": 616.9
+  },
+  {
+    "Datum": "31.08.2011",
+    "Einnahmen": 441.7
+  },
+  {
+    "Datum": "01.09.2011",
+    "Einnahmen": 691.3
+  },
+  {
+    "Datum": "02.09.2011",
+    "Einnahmen": 928.2
+  },
+  {
+    "Datum": "03.09.2011",
+    "Einnahmen": "1,331.30"
+  },
+  {
+    "Datum": "04.09.2011",
+    "Einnahmen": 697.6
+  },
+  {
+    "Datum": "05.09.2011",
+    "Einnahmen": 331.1
+  },
+  {
+    "Datum": "06.09.2011",
+    "Einnahmen": 544.2
+  },
+  {
+    "Datum": "07.09.2011",
+    "Einnahmen": 556.4
+  },
+  {
+    "Datum": "08.09.2011",
+    "Einnahmen": "1,188.80"
+  },
+  {
+    "Datum": "09.09.2011",
+    "Einnahmen": "1,027.90"
+  },
+  {
+    "Datum": "10.09.2011",
+    "Einnahmen": 767.7
+  },
+  {
+    "Datum": "11.09.2011",
+    "Einnahmen": 905.1
+  },
+  {
+    "Datum": "12.09.2011",
+    "Einnahmen": 488.4
+  },
+  {
+    "Datum": "13.09.2011",
+    "Einnahmen": 707.4
+  },
+  {
+    "Datum": "14.09.2011",
+    "Einnahmen": 611.9
+  },
+  {
+    "Datum": "15.09.2011",
+    "Einnahmen": 519.7
+  },
+  {
+    "Datum": "16.09.2011",
+    "Einnahmen": 681.7
+  },
+  {
+    "Datum": "17.09.2011",
+    "Einnahmen": 744.3
+  },
+  {
+    "Datum": "18.09.2011",
+    "Einnahmen": "1,672.50"
+  },
+  {
+    "Datum": "19.09.2011",
+    "Einnahmen": 731.6
+  },
+  {
+    "Datum": "20.09.2011",
+    "Einnahmen": "1,720.30"
+  },
+  {
+    "Datum": "21.09.2011",
+    "Einnahmen": 729.9
+  },
+  {
+    "Datum": "22.09.2011",
+    "Einnahmen": 614.2
+  },
+  {
+    "Datum": "23.09.2011",
+    "Einnahmen": 703.6
+  },
+  {
+    "Datum": "24.09.2011",
+    "Einnahmen": "1,188.40"
+  },
+  {
+    "Datum": "25.09.2011",
+    "Einnahmen": 696
+  },
+  {
+    "Datum": "26.09.2011",
+    "Einnahmen": 555.8
+  },
+  {
+    "Datum": "27.09.2011",
+    "Einnahmen": 362.7
+  },
+  {
+    "Datum": "28.09.2011",
+    "Einnahmen": 266.9
+  },
+  {
+    "Datum": "29.09.2011",
+    "Einnahmen": 859.4
+  },
+  {
+    "Datum": "30.09.2011",
+    "Einnahmen": 672.8
+  },
+  {
+    "Datum": "01.10.2011",
+    "Einnahmen": "1,148.70"
+  },
+  {
+    "Datum": "02.10.2011",
+    "Einnahmen": 863
+  },
+  {
+    "Datum": "03.10.2011",
+    "Einnahmen": "1,392.80"
+  },
+  {
+    "Datum": "04.10.2011",
+    "Einnahmen": 579.7
+  },
+  {
+    "Datum": "05.10.2011",
+    "Einnahmen": 741.5
+  },
+  {
+    "Datum": "06.10.2011",
+    "Einnahmen": 414.2
+  },
+  {
+    "Datum": "07.10.2011",
+    "Einnahmen": 749.7
+  },
+  {
+    "Datum": "08.10.2011",
+    "Einnahmen": "1,840.60"
+  },
+  {
+    "Datum": "09.10.2011",
+    "Einnahmen": 976.1
+  },
+  {
+    "Datum": "10.10.2011",
+    "Einnahmen": 675.5
+  },
+  {
+    "Datum": "11.10.2011",
+    "Einnahmen": 630.2
+  },
+  {
+    "Datum": "12.10.2011",
+    "Einnahmen": 573.5
+  },
+  {
+    "Datum": "13.10.2011",
+    "Einnahmen": 682
+  },
+  {
+    "Datum": "14.10.2011",
+    "Einnahmen": "1,157.70"
+  },
+  {
+    "Datum": "15.10.2011",
+    "Einnahmen": "1,454.40"
+  },
+  {
+    "Datum": "16.10.2011",
+    "Einnahmen": "1,207.50"
+  },
+  {
+    "Datum": "17.10.2011",
+    "Einnahmen": 673.4
+  },
+  {
+    "Datum": "18.10.2011",
+    "Einnahmen": 432.8
+  },
+  {
+    "Datum": "19.10.2011",
+    "Einnahmen": 902.9
+  },
+  {
+    "Datum": "20.10.2011",
+    "Einnahmen": 575.4
+  },
+  {
+    "Datum": "21.10.2011",
+    "Einnahmen": "1,337.40"
+  },
+  {
+    "Datum": "22.10.2011",
+    "Einnahmen": "1,291.00"
+  },
+  {
+    "Datum": "23.10.2011",
+    "Einnahmen": "1,168.60"
+  },
+  {
+    "Datum": "24.10.2011",
+    "Einnahmen": 835.8
+  },
+  {
+    "Datum": "25.10.2011",
+    "Einnahmen": 767.1
+  },
+  {
+    "Datum": "26.10.2011",
+    "Einnahmen": 335.5
+  },
+  {
+    "Datum": "27.10.2011",
+    "Einnahmen": 463.5
+  },
+  {
+    "Datum": "28.10.2011",
+    "Einnahmen": 640.6
+  },
+  {
+    "Datum": "29.10.2011",
+    "Einnahmen": "1,294.00"
+  },
+  {
+    "Datum": "30.10.2011",
+    "Einnahmen": "1,051.00"
+  },
+  {
+    "Datum": "31.10.2011",
+    "Einnahmen": "2,066.80"
+  },
+  {
+    "Datum": "01.11.2011",
+    "Einnahmen": "1,010.80"
+  },
+  {
+    "Datum": "02.11.2011",
+    "Einnahmen": 146
+  },
+  {
+    "Datum": "03.11.2011",
+    "Einnahmen": 508.5
+  },
+  {
+    "Datum": "04.11.2011",
+    "Einnahmen": "1,701.00"
+  },
+  {
+    "Datum": "05.11.2011",
+    "Einnahmen": "1,337.70"
+  },
+  {
+    "Datum": "06.11.2011",
+    "Einnahmen": "1,150.20"
+  },
+  {
+    "Datum": "07.11.2011",
+    "Einnahmen": 617.9
+  },
+  {
+    "Datum": "08.11.2011",
+    "Einnahmen": 393.4
+  },
+  {
+    "Datum": "09.11.2011",
+    "Einnahmen": 313.5
+  },
+  {
+    "Datum": "10.11.2011",
+    "Einnahmen": 938
+  },
+  {
+    "Datum": "11.11.2011",
+    "Einnahmen": "1,321.50"
+  },
+  {
+    "Datum": "12.11.2011",
+    "Einnahmen": "1,564.80"
+  },
+  {
+    "Datum": "13.11.2011",
+    "Einnahmen": 955
+  },
+  {
+    "Datum": "14.11.2011",
+    "Einnahmen": 629.9
+  },
+  {
+    "Datum": "15.11.2011",
+    "Einnahmen": 766.2
+  },
+  {
+    "Datum": "16.11.2011",
+    "Einnahmen": 671.1
+  },
+  {
+    "Datum": "17.11.2011",
+    "Einnahmen": 493.1
+  },
+  {
+    "Datum": "18.11.2011",
+    "Einnahmen": "1,139.20"
+  },
+  {
+    "Datum": "19.11.2011",
+    "Einnahmen": "1,517.90"
+  },
+  {
+    "Datum": "20.11.2011",
+    "Einnahmen": "1,001.20"
+  },
+  {
+    "Datum": "21.11.2011",
+    "Einnahmen": 434.3
+  },
+  {
+    "Datum": "22.11.2011",
+    "Einnahmen": 577.5
+  },
+  {
+    "Datum": "23.11.2011",
+    "Einnahmen": 712.5
+  },
+  {
+    "Datum": "24.11.2011",
+    "Einnahmen": "1,303.60"
+  },
+  {
+    "Datum": "25.11.2011",
+    "Einnahmen": "1,813.50"
+  },
+  {
+    "Datum": "26.11.2011",
+    "Einnahmen": "1,608.20"
+  },
+  {
+    "Datum": "27.11.2011",
+    "Einnahmen": "1,725.80"
+  },
+  {
+    "Datum": "28.11.2011",
+    "Einnahmen": 745.3
+  },
+  {
+    "Datum": "29.11.2011",
+    "Einnahmen": 659.5
+  },
+  {
+    "Datum": "30.11.2011",
+    "Einnahmen": 754
+  },
+  {
+    "Datum": "01.12.2011",
+    "Einnahmen": "1,997.70"
+  },
+  {
+    "Datum": "02.12.2011",
+    "Einnahmen": "1,877.30"
+  },
+  {
+    "Datum": "03.12.2011",
+    "Einnahmen": "1,077.30"
+  },
+  {
+    "Datum": "04.12.2011",
+    "Einnahmen": "1,320.30"
+  },
+  {
+    "Datum": "05.12.2011",
+    "Einnahmen": 778.9
+  },
+  {
+    "Datum": "06.12.2011",
+    "Einnahmen": "1,430.70"
+  },
+  {
+    "Datum": "07.12.2011",
+    "Einnahmen": "1,261.90"
+  },
+  {
+    "Datum": "08.12.2011",
+    "Einnahmen": "1,656.10"
+  },
+  {
+    "Datum": "09.12.2011",
+    "Einnahmen": "1,658.30"
+  },
+  {
+    "Datum": "10.12.2011",
+    "Einnahmen": "1,567.00"
+  },
+  {
+    "Datum": "11.12.2011",
+    "Einnahmen": "1,267.50"
+  },
+  {
+    "Datum": "12.12.2011",
+    "Einnahmen": 410.9
+  },
+  {
+    "Datum": "13.12.2011",
+    "Einnahmen": 627.8
+  },
+  {
+    "Datum": "14.12.2011",
+    "Einnahmen": "1,569.40"
+  },
+  {
+    "Datum": "15.12.2011",
+    "Einnahmen": 842.2
+  },
+  {
+    "Datum": "16.12.2011",
+    "Einnahmen": "2,454.50"
+  },
+  {
+    "Datum": "17.12.2011",
+    "Einnahmen": "1,184.60"
+  },
+  {
+    "Datum": "18.12.2011",
+    "Einnahmen": "1,240.80"
+  },
+  {
+    "Datum": "19.12.2011",
+    "Einnahmen": 599.7
+  },
+  {
+    "Datum": "20.12.2011",
+    "Einnahmen": "1,873.40"
+  },
+  {
+    "Datum": "21.12.2011",
+    "Einnahmen": "1,425.00"
+  },
+  {
+    "Datum": "22.12.2011",
+    "Einnahmen": "1,529.80"
+  },
+  {
+    "Datum": "23.12.2011",
+    "Einnahmen": 835.9
+  },
+  {
+    "Datum": "25.12.2011",
+    "Einnahmen": "1,953.90"
+  },
+  {
+    "Datum": "26.12.2011",
+    "Einnahmen": "2,744.30"
+  },
+  {
+    "Datum": "27.12.2011",
+    "Einnahmen": 738.2
+  },
+  {
+    "Datum": "28.12.2011",
+    "Einnahmen": "1,189.50"
+  },
+  {
+    "Datum": "29.12.2011",
+    "Einnahmen": "1,071.30"
+  },
+  {
+    "Datum": "30.12.2011",
+    "Einnahmen": "1,809.60"
+  },
+  {
+    "Datum": "31.12.2011",
+    "Einnahmen": "4,463.10"
+  }
+]

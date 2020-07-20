@@ -1,34 +1,114 @@
-import { reduce, add } from 'ramda'
+import { prop, add } from 'ramda'
 import React from 'react'
-import { Text, TouchableOpacity, View } from 'react-native-web'
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native-web'
+import { createStructuredSelector } from 'reselect'
+import { connect } from 'react-redux'
+import { bindActionCreators } from 'redux'
+import {
+  getEmail,
+  getSumDefault,
+  getSumNew,
+  getExportData,
+  getStageCount,
+  getHasTestFinished,
+  getHasInvalidData,
+} from '../store/selectors'
+import { setEmail, setNextStage } from '../store/actions'
+import { DiffPercent } from './DiffPercent'
+import { colors, iosShadow } from '../constants'
 
-const SubmitButton = ({ onPress }) => (
-    <TouchableOpacity onPress={onPress} style={{
-        alignItems: 'center',
-        backgroundColor: "#e3eaa7",
-        borderRadius: 12,
-        paddingVertical: 8,
-        paddingHorizontal: 16,
-        width: 160,
-    }}>
-        <Text style={{ fontSize: 24 }}>Submit</Text>
-    </TouchableOpacity>
+const styles = StyleSheet.create({
+  title: {
+    fontSize: 24,
+    marginBottom: 12,
+    textAlign: 'center',
+    border: '1px solid black',
+    paddingVertical: 4,
+    paddingHorizontal: 24,
+  },
+  finishButton: {
+    backgroundColor: colors.mainBlue,
+    borderRadius: 2,
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    width: 160,
+  },
+  buttonGrey: {
+    backgroundColor: '#ccc'
+  },
+})
+
+const FinishButton = ({ onPress, hasInvalidData }) => (
+  <TouchableOpacity onPress={onPress} style={[styles.finishButton, iosShadow, hasInvalidData && styles.buttonGrey]}>
+    <Text style={{ fontSize: 24, color: 'white' }}>
+      Finish Table
+    </Text>
+  </TouchableOpacity>
 )
 
-const Result = ({ oldNumbers = [], newNumbers = [], onPressSubmit }) => {
-    const oldNumbersSum = reduce(add, 0, oldNumbers)
-    const oldNumbersString = `Old sum: ${oldNumbersSum}`
+class Result extends React.Component {  
+  _onChangeEmail = email => {
+    const { actions } = this.props
 
-    const newNumbersSum = reduce(add, 0, newNumbers)
-    const newNumbersString = `New sum: ${newNumbersSum}`
+    actions.setEmail(email)
+  }
+
+  _onPressNextStage = () => {
+    const { actions, hasInvalidData } = this.props
+
+    if (!hasInvalidData) { 
+      actions.setNextStage()
+    }
+  }
+	
+	_extractValueAndAdd = (acc, curr) => {
+		const num = prop('value', curr)
+
+		return add(acc, num)
+	}
+
+  render () {
+    const {
+      sumDefault,
+      sumNew,
+      style,
+      hasTestFinished,
+      hasInvalidData
+    } = this.props
+
+    const oldNumbersString = `Old Revenue: ${sumDefault}`
+    const newNumbersString = `New Revenue: ${sumNew}`
 
     return (
-        <View style={{ flex: 1 }}>
-            <Text style={{ fontSize: 24, marginBottom: 12 }}>{oldNumbersString}</Text>
-            <Text style={{ fontSize: 24, marginBottom: 12 }}>{newNumbersString}</Text>
-            <SubmitButton onPress={onPressSubmit} />
-        </View>
+      <View style={style}>
+        <Text style={styles.title}>
+          Results
+        </Text>
+        <Text style={{ fontSize: 24, marginBottom: 12 }}>
+          {oldNumbersString}
+        </Text>
+        <Text style={{ fontSize: 24, marginBottom: 12 }}>
+          {newNumbersString}
+        </Text>
+        <DiffPercent />
+        {hasTestFinished ? null : <FinishButton onPress={this._onPressNextStage} hasInvalidData={hasInvalidData} />}
+      </View>
     )
+  }
 }
 
-export default Result
+const mapStateToProps = createStructuredSelector({
+  email: getEmail,
+  exportData: getExportData,
+	sumDefault: getSumDefault,
+  sumNew: getSumNew,
+  stageCount: getStageCount,
+  hasTestFinished: getHasTestFinished,
+  hasInvalidData: getHasInvalidData,
+})
+
+const mapDispatchToProps = dispatch => ({
+  actions: bindActionCreators({ setEmail, setNextStage }, dispatch)
+})
+
+export default connect(mapStateToProps, mapDispatchToProps)(Result)
